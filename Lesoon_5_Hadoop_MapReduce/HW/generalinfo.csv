@@ -1,0 +1,1001 @@
+id_restaurant,label,food_type,city,review
+1,"sparky's diner","24 hour diner","san francisco",2.3
+2,"kabul afghan cuisine",afghani,"san carlos",3.8
+3,"helmand restaurant",afghani,"san francisco",4.0
+4,"afghani house",afghani,sunnyvale,3.6
+5,"kabul afghan cusine",afghani,sunnyvale,3.7
+6,"bamyan afghan restaurant",afghani,"san rafael",2.8
+7,"kabul palace",afghani,"san jose",2.8
+8,kandahar,afghani,concord,3.5
+9,"kabobs house",afghani,vacaville,2.7
+10,"massawa restaurant",african,"san francisco",3.4
+11,"new eritrea restaurant & bar",african,"san francisco",3.0
+12,"ola's african,carbbean, cajun restaurant",african,cupertino,2.3
+13,"sum-yun chick","all ethnic",fremont,3.6
+14,"alameda grill",american,alameda,2.3
+15,"ann's lounge & hofbrau",american,alameda,2.0
+16,"lyon's restaurant",american,alameda,2.3
+17,"casablanca bar & grill",american,albany,2.0
+18,"monterey restaurant",american,albany,2.3
+19,"lyons restaurant",american,antioch,2.0
+20,"bob eatery",american,benicia,2.0
+21,"morgan's grill",american,benicia,2.3
+22,"papa's family restaurant",american,benicia,2.0
+23,"ann kong's world famous bleach bottle pig farm",american,berkeley,1.8
+24,au-coquelet,american,berkeley,2.6
+25,"gilman grill",american,berkeley,2.0
+26,"rick & ann's",american,berkeley,3.5
+27,"shattuck avenue spats",american,berkeley,2.6
+28,"brooks ranch restaurant",american,brentwood,2.0
+29,"the silver skillet",american,brentwood,2.0
+30,"calistoga roastery",american,calistoga,2.3
+31,"the silverado restaurant-taver",american,calistoga,2.3
+32,denny's,american,campbell,2.0
+33,denny's,american,campbell,1.7
+34,"lyon's castro valley 442",american,"castro valley",2.0
+35,"special continental cuisine",american,"castro valley",1.8
+36,"andys restaurant",american,concord,2.0
+37,"cocos 873",american,concord,2.0
+38,"denny's restaurant",american,concord,2.0
+39,"legends-sports restaurant inc",american,concord,2.3
+40,"lyons restaurant",american,concord,2.0
+41,"marie callender's no",american,concord,2.3
+42,"peppermill inc",american,concord,2.8
+43,"chuck e cheese",american,cupertino,2.0
+44,"hobee's restaurant",american,cupertino,3.3
+45,"hobee's santa cruz",american,cupertino,2.0
+46,"marriott family restaurants",american,cupertino,2.0
+47,"paul's family restaurant",american,cupertino,2.0
+48,"t g i fridays",american,cupertino,1.8
+49,"tgi fridays",american,cupertino,2.0
+50,"the good earth",american,cupertino,2.3
+51,"hungry hunter",american,"daly city",2.0
+52,"cocos 874",american,danville,2.0
+53,"denny's restaurant",american,danville,2.0
+54,"lyons restaurant",american,danville,2.0
+55,"virtual world",american,danville,2.0
+56,"carrows hickory chip restauran",american,dublin,2.0
+57,"cocos 872",american,dublin,2.0
+58,"copper skillet pantry dublin",american,dublin,1.7
+59,"dublin buffet",american,dublin,2.3
+60,"carrows hickory chip restauran",american,"el cerrito",2.0
+61,"kirby's family restaurant",american,"el cerrito",2.0
+62,"blake's restaurant",american,"el sobrante",2.0
+63,"denny's restaurant",american,emeryville,2.3
+64,"lyons restaurant",american,emeryville,2.0
+65,"townhouse bar & grill",american,emeryville,3.1
+66,denny's,american,fairfield,2.0
+67,denny's,american,fairfield,1.7
+68,"denny's restaurant",american,fairfield,2.0
+69,"hickey's brass rail",american,fairfield,2.0
+70,"johnnie gourmet restaurant cocktails",american,fairfield,2.0
+71,"lyons restaurant",american,fairfield,2.0
+72,chili's,american,fremont,2.0
+73,denny's,american,fremont,1.3
+74,"denny's restaurant",american,fremont,2.0
+75,"dina's family restaurant",american,fremont,3.0
+76,"dino's family restaurant",american,fremont,2.3
+77,"harvest farm buffet",american,fremont,2.0
+78,"hungry hunter",american,fremont,2.5
+79,"lyons restaurant",american,fremont,2.4
+80,"marie callender",american,fremont,2.3
+81,"star family restaraunt",american,fremont,2.7
+82,"carrows hickory chip restauran",american,hayward,2.0
+83,"denny's restaurant",american,hayward,2.0
+84,"lyons restaurant",american,hayward,2.0
+85,"lyons restaurant",american,hayward,2.0
+86,"ernies family restaurant",american,hollister,2.0
+87,"johnnies bar & grill",american,hollister,2.0
+88,"hungry hunter",american,lafayette,2.8
+89,"killarney house",american,lafayette,2.0
+90,"papasan catering",american,lafayette,2.0
+91,"peppers bar & grill",american,lafayette,3.3
+92,"lyons restaurant",american,livermore,2.3
+93,"mc kay's bar & grill",american,livermore,2.0
+94,"pine street grill",american,livermore,2.0
+95,"emil villa's hick'ry pit restaurant",american,"los altos",2.0
+96,"marie callender pie shop",american,"los altos",2.4
+97,"los gatos brewing co.",american,"los gatos",3.3
+98,"the good earth",american,"los gatos",1.7
+99,"carrows restaurant",american,martinez,1.8
+100,"joes martinez bar & grill",american,martinez,2.0
+101,denny's,american,milpitas,2.0
+102,"hungry hunter",american,milpitas,3.3
+103,"marie callender's",american,milpitas,2.3
+104,"marie callender's pie shops",american,"morgan hill",2.0
+105,"mushrooms grille & bar",american,"morgan hill",2.7
+106,"marriott family restaurants",american,"mountain view",2.0
+107,"denny's napa valley east",american,napa,2.0
+108,henry's,american,napa,2.0
+109,"lyons restaurant",american,napa,2.0
+110,"marie callender's",american,napa,2.3
+111,o'sullivan's,american,napa,2.0
+112,"old adobe bar & grill",american,napa,2.0
+113,"zapata bar and grill",american,napa,2.3
+114,"lyons restaurant",american,newark,2.3
+115,"red robin international inc",american,newark,2.0
+116,"carrows hickory chip restauran",american,oakland,2.0
+117,"crogan's montclair",american,oakland,2.7
+118,"denny's restaurant",american,oakland,2.0
+119,"denny's restaurant 296",american,oakland,2.0
+120,"family affair",american,oakland,2.0
+121,"g gs family restaurant",american,oakland,2.0
+122,"garys grill & bar",american,oakland,2.7
+123,"golden bull restaurant",american,oakland,2.0
+124,"grand oaks restaurant",american,oakland,2.0
+125,"hunan restaurant",american,oakland,2.0
+126,"hungry hunter",american,oakland,2.0
+127,"hungry hunter",american,oakland,2.0
+128,"ike's rotisserie",american,oakland,2.7
+129,"jack's restaurant & bar",american,oakland,2.7
+130,"l j quinn's lighthouse",american,oakland,2.3
+131,"mac's bar & grill",american,oakland,2.3
+132,"montclair restaurant",american,oakland,2.0
+133,"overland house grill",american,oakland,2.0
+134,"soul brothers kitchen",american,oakland,2.0
+135,"cookbook restaurant",american,"palo alto",3.0
+136,"left at albuquerque",american,"palo alto",3.0
+137,"macarthur park restaurant",american,"palo alto",2.4
+138,"peninsula fountain",american,"palo alto",2.6
+139,"q cafe billiards",american,"palo alto",2.5
+140,"stars palo alto",american,"palo alto",2.6
+141,"sundance mine company",american,"palo alto",3.5
+142,"the good earth",american,"palo alto",2.2
+143,"webster grill",american,piedmont,2.0
+144,"the persimmon tree restraunt",american,pinole,2.7
+145,tommy's,american,pinole,2.0
+146,"snooker pete's bar & grill",american,pittsburg,2.0
+147,"coco's 63 walnut creek",american,"pleasant hill",2.0
+148,"denny's restaurant 162",american,"pleasant hill",2.0
+149,"jojo's restaurant",american,"pleasant hill",2.0
+150,"lyons restaurant",american,"pleasant hill",2.0
+151,chili's,american,pleasanton,3.0
+152,denny's,american,pleasanton,2.0
+153,"hungry hunter",american,pleasanton,3.4
+154,"lyons restaurant",american,pleasanton,2.0
+155,"velvet turtle",american,pleasanton,2.0
+156,"big boy",american,richmond,2.0
+157,"edie's cafe",american,richmond,2.0
+158,"general store at marina bay",american,richmond,2.0
+159,"great american hamburger & pie co.",american,richmond,2.0
+160,"little louie's",american,richmond,2.5
+161,"hungry hunter",american,"south san francisco",2.0
+162,"cheri's a family restaurant",american,"saint helena",2.0
+163,"spring street restaurant",american,"saint helena",2.7
+164,"chuck e cheeses",american,"san bruno",2.0
+165,"t g i  fridays",american,"san bruno",2.3
+166,"tgi fridays",american,"san bruno",2.0
+167,"amazing grace vegetarian restaurant",american,"san francisco",2.0
+168,"bullshead restaurant",american,"san francisco",3.9
+169,"cafe 222",american,"san francisco",2.3
+170,"ella's restaurant",american,"san francisco",3.4
+171,"fairmont crown buffet",american,"san francisco",3.0
+172,"fog city diner",american,"san francisco",3.1
+173,"harpoon louie's",american,"san francisco",2.3
+174,"harris' restaurant",american,"san francisco",3.2
+175,"huckleberry finn restaurant",american,"san francisco",2.0
+176,"izzy's steaks & chops",american,"san francisco",4.0
+177,"joe's cable car restaurant",american,"san francisco",3.3
+178,"lasavane west african restaurant & bar",american,"san francisco",2.0
+179,"m & m tavern",american,"san francisco",2.0
+180,"macarthur park restaurant",american,"san francisco",3.0
+181,perry's,american,"san francisco",3.0
+182,"sabella & la torre",american,"san francisco",2.7
+183,"sugar broiler",american,"san francisco",2.0
+184,"up & down club",american,"san francisco",3.3
+185,"vince'south san francisco",american,"san francisco",2.0
+186,"broilerworks retaurants ltd",american,"san jose",2.0
+187,"california kitchen",american,"san jose",2.0
+188,coco's,american,"san jose",2.0
+189,"enio's family restaurant",american,"san jose",2.0
+190,"hobee's montague exp",american,"san jose",2.3
+191,"hungry hunter",american,"san jose",2.9
+192,"jim's family restaurant",american,"san jose",2.0
+193,"marie callender's",american,"san jose",2.0
+194,"marie callender's pie shop",american,"san jose",2.3
+195,"marie callenders",american,"san jose",2.3
+196,"marriott family restaurants",american,"san jose",2.0
+197,"carrows hickory chip restauran",american,"san leandro",2.0
+198,"denny's restaurant",american,"san leandro",2.0
+199,"denny's restaurant",american,"san leandro",2.0
+200,"lyons restaurant",american,"san leandro",2.0
+201,"nicks family restaurant",american,"san leandro",2.7
+202,"california kitchen",american,"san mateo",2.0
+203,"t g i  fridays",american,"san mateo",2.3
+204,"friday's of california",american,"san ramon",2.0
+205,mudd's,american,"san ramon",3.8
+206,"t g i  fridays",american,"san ramon",2.3
+207,"tommy t's",american,"san ramon",2.3
+208,"marriott family restaurants",american,"santa clara",2.0
+209,"mcneils bar & grill",american,"santa clara",2.0
+210,"the good earth",american,"santa clara",2.0
+211,"petes family restaurant",american,"santa cruz",2.0
+212,"pontiac grill",american,"santa cruz",2.4
+213,"mikayla at c.madrona",american,sausalito,3.4
+214,denny's,american,"suisun city",2.0
+215,"golden grill restaurant",american,"suisun city",2.0
+216,"mullins pub & grill",american,"suisun city",2.3
+217,"country gourmet &",american,sunnyvale,3.0
+218,"silver spoon cafe",american,sunnyvale,2.0
+219,"silver spoon cafe",american,sunnyvale,2.0
+220,"sunnyvale cattleman's",american,sunnyvale,2.7
+221,"the silver spoon",american,sunnyvale,2.0
+222,"carrows hickory chip restauran",american,"union city",2.0
+223,"zaida's filipino-american cuis",american,"union city",2.0
+224,"denny's restaurant",american,vallejo,2.0
+225,"denny's restaurant",american,vallejo,2.0
+226,"jamerican cuisine",american,vallejo,2.0
+227,"lyons restaurant",american,vallejo,2.0
+228,"rod's hickory pit restaurant",american,vallejo,2.0
+229,tommy's,american,vallejo,2.0
+230,"western restaurant",american,vallejo,2.0
+231,"abernathy's restaurant",american,"walnut creek",2.0
+232,"buttercup kitchen",american,"walnut creek",2.3
+233,"copper skillet",american,"walnut creek",2.0
+234,"crogan's bar & grill",american,"walnut creek",2.3
+235,"denny's restaurant",american,"walnut creek",2.0
+236,"lyons restaurant",american,"walnut creek",1.7
+237,"marie callenders-walnut creek",american,"walnut creek",2.0
+238,"vic stewarts",american,"walnut creek",2.5
+239,"yountville bar & grill",american,yountville,2.0
+240,"barbary coast",american,"san francisco",2.8
+241,"california cafe",american,"los gatos",3.6
+242,"hawthorne lane",american,"san francisco",4.3
+243,boulevard,american,"san francisco",4.0
+244,"tgi fridays",american,oakland,1.5
+245,"gate five",american,sausalito,2.8
+246,"cacti bar and mesquite grill",american,novato,3.3
+247,"lark creek cafe",american,"walnut creek",3.1
+248,"the house",american,"san francisco",3.9
+249,"sylvia's country kitchen",american,antioch,2.7
+250,spurs,american,byron,2.5
+251,"baker's square",american,napa,2.0
+252,"bakers square restaurant & pie shop",american,"rohnert park",2.0
+253,"bakers square restaurant & pie shop",american,"santa rosa",1.7
+254,"checkers pizza & frozen yogurt",american,"santa rosa",2.0
+255,"marios family restaurant",american,"santa rosa",2.0
+256,"union hotel restaurant",american,sebastopol,2.0
+257,"bakers square restaurant & pie",american,"san francisco",2.0
+258,"bakers square restaurant & pies",american,"san bruno",3.0
+259,"dunville market",american,hollister,2.7
+260,flames,american,"san jose",2.3
+261,birk's,american,"santa clara",2.3
+262,"mixx-an american bistro",american,"santa rosa",2.8
+263,"empire tap room",american,"palo alto",3.1
+264,"94th aero squadron",american,"san jose",3.0
+265,t.g.i.friday,american,pleasanton,2.8
+266,applebees,american,livermore,2.3
+267,"pleasanton hotel",american,pleasanton,3.5
+268,"sky kitchen",american,"san carlos",2.0
+269,"peggy sue's",american,"san jose",2.0
+270,"harbor 15",american,"san rafael",2.0
+271,"pearl's cafe",american,fremont,3.2
+272,"banta inn",american,banta,2.0
+273,"green mill inn",american,pengrove,2.7
+274,"bagdad cafe",american,"san francisco",3.2
+275,"little orphan andys",american,"san francisco",2.6
+276,"tuba garden",american,"san francisco",2.3
+277,"sorci's restaurant",american,"morgan hill",2.5
+278,"kelly's restaurant",american,antioch,3.0
+279,"tnn properties ",american,"san francisco",2.0
+280,"parkside restaurant",american,"san francisco",2.7
+281,"ridge side cafe",american,"portola valley",2.7
+282,"kenwood restaurant & bar",american,kenwood,3.0
+283,"buckley lodge",american,kenwood,3.3
+284,"broiler express",american,"san carlos",2.3
+285,"union hotel",american,benicia,3.4
+286,"planet hollywood",american,"san francisco",2.3
+287,"harbor fifteen",american,"san rafael",2.0
+288,"villa coffee shop",american,"san mateo",2.7
+289,"allied arts guild",american,"menlo park",2.7
+290,"red tractor cafe",american,oakland,2.3
+291,"marie callender's restaurant & bakery",american,sunnyvale,2.3
+292,ricks,american,"san francisco",2.7
+293,"chili great chili",american,"pacific grove",2.0
+294,"goodie goodie cafe",american,"san francisco",2.0
+295,bandera,american,"los altos",3.6
+296,"sophie's cookhouse",american,"san francisco",2.3
+297,"big horn",american,"san ramon",2.3
+298,"julie rings heart & soul",american,"san francisco",2.7
+299,"home plate",american,"san francisco",3.0
+300,"brandon's of saratoga",american,saratoga,3.4
+301,alexi's,american,"san jose",2.3
+302,shelby's,american,orinda,2.0
+303,birks,american,"santa clara",2.0
+304,"julie rings heart & soul",american,"san francisco",3.0
+305,"max's opera cafe of burlingame",american,burlingame,2.6
+306,"bill's cafe",american,"san jose",2.8
+307,applebee's,american,gilroy,2.0
+308,"zuni cafe",american,"san francisco",2.3
+309,friday's,american,oakland,2.0
+310,"jim's country style restaurant",american,pleasanton,2.7
+311,"hobee's california restaurant",american,emeryville,2.3
+312,"lehr brothers bistro and grill",american,"san francisco",3.2
+313,"manka's inverness lodge",american,inverness,3.5
+314,"the flying boar",american,napa,2.0
+315,faz,american,pleasanton,2.0
+316,"baker's square",american,concord,2.3
+317,"savoy at the boundry oak",american,"walnut creek",3.0
+318,"blue sky cafe",american,"mountain view",3.0
+319,"country waffles",american,benicia,2.6
+320,"encore cafe",american,"morgan hill",4.2
+321,"courtyard cafe",american,alameda,2.7
+322,"star rockets",american,"mountain view",2.3
+323,"john's grill",american,"san francisco",3.5
+324,"tadich grill",american,"san francisco",2.6
+325,"hard rock cafe",american,"san francisco",2.3
+326,"max's opera cafe",american,"san francisco",2.3
+327,"val's redwood room",american,"daly city",2.5
+328,"max's opera cafe",american,"walnut creek",3.2
+329,star,american,fremont,3.4
+330,"the restaurant at convict lake",american,"mammoth lakes",2.0
+331,"the mogul",american,"mammoth lakes",2.7
+332,"eugene's bay view bar and restaurant",american,larkspur,2.7
+333,"millie's kitchen",american,lafayette,2.6
+334,bix,american,"san francisco",3.3
+335,"powell's place",american,"san francisco",2.3
+336,"buttercup pantry",american,pleasanton,2.0
+337,"buttercup pantry",american,pleasanton,2.3
+338,"bear republic brewing co., inc.",american,healdsburg,2.0
+339,mecca,american,"san francisco",3.3
+340,"alex's restaurant & pub",american,calistoga,2.0
+341,"sneakers pub & grill",american,"san carlos",3.3
+342,cinnabar,american,calistoga,2.0
+343,"mimi's cafe",american,"san jose",2.7
+344,"del monte express",american,monterey,2.0
+345,"crescent park grill",american,"palo alto",2.7
+346,"caprices restaurant & cafe",american,burlingame,2.7
+347,"chili's grill & bar",american,"san bruno",2.0
+348,meharry's,american,"san francisco",2.0
+349,"two fools cafe & market",american,"half moon bay",2.6
+350,tradewinds,american,"fort bragg",2.5
+351,"elephant bar",american,burlingame,2.3
+352,"claim jumper",american,concord,2.7
+353,"the montclair eggshop",american,oakland,2.3
+354,"cameron's restaurant and inn",american,"half moon bay",2.0
+355,"swan court cafe",american,milpitas,2.0
+356,"the hog's breath inn",american,carmel,2.7
+357,"mission ranch",american,carmel,2.7
+358,"elysium cafe",american,"san francisco",3.6
+359,"spoons restaurant",arabic,fremont,2.9
+360,"noor's cafe",arabic,"san francisco",2.0
+361,pasha,arabic,"san francisco",2.1
+362,"the grapeleaf restaurant",arabic,"san francisco",3.0
+363,"sunrise deli",arabic,"san francisco",2.7
+364,"the armenian gourmet",armenian,sunnyvale,3.4
+365,"lucky dragon",asian,aptos,2.3
+366,"pacific rim buffet",asian,aptos,2.0
+367,"fung lum restaurant",asian,campbell,2.4
+368,"house of orient",asian,campbell,2.0
+369,"oriental garden restaurant",asian,campbell,2.0
+370,masayuki's,asian,capitola,2.0
+371,"wok west",asian,capitola,2.0
+372,"oriental kitchen",asian,colma,2.0
+373,"lotus garden",asian,"foster city",2.5
+374,"yet wah restaurant",asian,"foster city",2.8
+375,"mings kitchen",asian,"los gatos",2.3
+376,"yeung shing restaurant",asian,"los gatos",2.0
+377,"chef wang restaurant",asian,millbrae,3.0
+378,"fung jen palace",asian,milpitas,2.4
+379,"hong kong garden restaurant",asian,milpitas,2.0
+380,"hungkee garden restaurant",asian,milpitas,1.5
+381,"jangtu soondae restaurant",asian,milpitas,2.0
+382,"manila chopsticks",asian,milpitas,2.0
+383,"pho 909 restaurant",asian,milpitas,2.0
+384,"pho super bowl",asian,milpitas,3.5
+385,"pho world",asian,milpitas,2.8
+386,"the new orient",asian,milpitas,2.3
+387,"chef wang",asian,"mountain view",3.3
+388,"pedro point restaurant",asian,pacifica,3.3
+389,"chin's restaurant",asian,"redwood city",2.3
+390,"ling nam noodle house",asian,"south san francisco",2.0
+391,"bamboo garden",asian,"san bruno",2.0
+392,"fon yong restaurant",asian,"san bruno",2.0
+393,"golden palace restaurant",asian,"san bruno",2.0
+394,"grandehos hibachi",asian,"san bruno",2.0
+395,"luck jade restaurant",asian,"san bruno",2.0
+396,"wang's house",asian,"san bruno",2.3
+397,"chu's garden restaurant",asian,"san carlos",2.7
+398,"uncle chen restaurant",asian,"san carlos",3.3
+399,"anh dao restaurant",asian,"san jose",2.0
+400,"bac huong restaurant",asian,"san jose",3.0
+401,"binh minh restaurant",asian,"san jose",2.0
+402,"chau kee restaurant",asian,"san jose",2.0
+403,"dac phuc restaurant",asian,"san jose",2.3
+404,"hoa xuan restaurant",asian,"san jose",2.0
+405,"kowloon kitchen",asian,"san jose",2.0
+406,"lai lai restaurant",asian,"san jose",2.0
+407,"long hai restaurant",asian,"san jose",2.0
+408,"long hoa restaurant",asian,"san jose",2.0
+409,"lung wah restaurant",asian,"san jose",2.0
+410,"nha thanh restaurant",asian,"san jose",2.0
+411,"paradise oriental restaurant",asian,"san jose",2.0
+412,"pho 90 restaurant",asian,"san jose",2.0
+413,"pho hien",asian,"san jose",2.0
+414,"pho hoang restaurant",asian,"san jose",2.0
+415,"pho thanh hien restaurant",asian,"san jose",2.0
+416,"quang da restaurant",asian,"san jose",2.0
+417,"sanuki restaurant",asian,"san jose",2.0
+418,"song tien restaurant",asian,"san jose",2.0
+419,"soong soong restaurant",asian,"san jose",2.0
+420,"thanh ha",asian,"san jose",2.0
+421,"thanh ha com chay",asian,"san jose",2.0
+422,"thanh huong ii",asian,"san jose",2.0
+423,"thanh son tofu che hien khanh",asian,"san jose",2.0
+424,"thanh van ii restaurant",asian,"san jose",2.0
+425,"vung tau restaurant",asian,"san jose",1.8
+426,"yeung's sung yuan restaurant",asian,"san jose",2.0
+427,"new kwok wah",asian,"san mateo",2.0
+428,"the pot sticker",asian,"san mateo",2.7
+429,"viet hung restaurant",asian,"san mateo",2.0
+430,"mister go ii oriental cuisine",asian,"santa clara",2.0
+431,"pho hoa",asian,"santa clara",2.5
+432,"sham hing restaurant",asian,"santa clara",2.0
+433,"su's mongolian b b",asian,"santa clara",3.0
+434,"asian rose restaurant",asian,"santa cruz",3.2
+435,"asian rose restaurant",asian,"santa cruz",2.8
+436,"bamboo restaurant",asian,"santa cruz",2.0
+437,"mei garden restaurant",asian,"santa cruz",2.0
+438,"mei garden restaurant",asian,"scotts valley",2.3
+439,"golden buddha restaurant",asian,soquel,2.8
+440,"orient expresso",asian,soquel,2.0
+441,"wee ming restaurant",asian,soquel,2.0
+442,"chef chen",asian,sunnyvale,2.0
+443,"king wah restaurant",asian,sunnyvale,2.3
+444,"pho golden bowl restaurant",asian,sunnyvale,2.7
+445,"pho xe lua noodle house",asian,sunnyvale,2.0
+446,"phu hai restaurant",asian,sunnyvale,2.0
+447,"the new orient",asian,sunnyvale,2.0
+448,"the house",asian,"san francisco",3.9
+449,"oriental express",asian,sebastopol,2.0
+450,"oriental pearl restaurant",asian,"san francisco",2.0
+451,"oriental restaurant",asian,"san francisco",2.0
+452,"oriental seafood restaurant",asian,"san francisco",2.0
+453,"wanton house",asian,"santa clara",2.3
+454,"chicken bowl",asian,"santa clara",2.0
+455,sticks,asian,"santa clara",3.0
+456,"betelnut pejiu wu",asian,"san francisco",3.6
+457,"season buffet",asian,newark,2.2
+458,"lhasa moon",asian,"san francisco",3.0
+459,crustacean,asian,"san francisco",3.0
+460,"ru lepic",asian,"san francisco",2.7
+461,crustacean,asian,"san francisco",2.0
+462,"bok choy asian market cafe",asian,"palo alto",3.6
+463,"s & b",bbq,"san mateo",2.7
+464,"boogie woogie bagel boy",bagels,alameda,2.7
+465,"lox stock & bagel",bagels,berkeley,2.0
+466,"lox stock & bagel",bagels,berkeley,2.0
+467,"noah's bagels",bagels,berkeley,3.8
+468,"lox stock & bagel inc",bagels,emeryville,2.0
+469,"noahs new york bagels",bagels,emeryville,2.0
+470,"the posh bagel",bagels,"los altos",3.4
+471,"the posh bagel",bagels,"los gatos",3.0
+472,"the posh bagel",bagels,"menlo park",2.0
+473,"morgan hill bagel house",bagels,"morgan hill",3.0
+474,"the better bagel",bagels,"mountain view",2.4
+475,"that bagel place",bagels,napa,2.0
+476,"the bagel adventure",bagels,napa,1.7
+477,"lox stock & bagel",bagels,oakland,2.0
+478,"suzy's lox & bagel",bagels,oakland,2.0
+479,"bagel works",bagels,"palo alto",3.7
+480,bagel,bagels,"san francisco",2.7
+481,"the bagelry",bagels,"santa cruz",2.3
+482,"the bagelry",bagels,"santa cruz",2.8
+483,"broadway bagels",bagels,saratoga,2.0
+484,"saratoga bagels",bagels,saratoga,2.2
+485,"the bagelry",bagels,soquel,2.0
+486,"phil a bagel",bagels,"walnut creek",2.7
+487,"noahs bagels",bagels,"los gatos",3.1
+488,"brother's bagels",bagels,berkeley,2.0
+489,"sonoma valley bagel co",bagels,"santa rosa",3.0
+490,"sonoma valley bagel co",bagels,"santa rosa",2.0
+491,"home grown bagels bakery & restaurant",bagels,sonoma,2.0
+492,"homegrown bagels bakery & restaurant",bagels,sonoma,2.0
+493,"noah's new york bagels",bagels,"palo alto",2.6
+494,"house of bagels",bagels,"palo alto",4.0
+495,"house of bagels",bagels,burlingame,2.7
+496,"the bagelry",bagels,"san francisco",3.0
+497,"noah's bagels",bagels,alameda,2.7
+498,"berrys pastry shop",bakery,antioch,2.0
+499,"windmill family restaurant & bakery",bakery,antioch,2.0
+500,"renee's bakery",bakery,aptos,2.0
+501,"hello croissant",bakery,berkeley,2.0
+502,"windmill family restaurant & bakery",bakery,"bethel island",2.0
+503,"gayle's bakery & rosticceria",bakery,capitola,3.0
+504,"granny eng's donut & bakery",bakery,"daly city",2.0
+505,"paradise bakery",bakery,"el cerrito",2.0
+506,"muffin treat",bakery,fairfield,2.0
+507,"conrad's pastries",bakery,felton,2.0
+508,"creative croissants",bakery,martinez,2.8
+509,"martha's pastries",bakery,"menlo park",2.0
+510,"gold ribbon bakeshop & restaurant",bakery,milpitas,2.0
+511,"villa corona bakery",bakery,napa,2.0
+512,"la brasserie",bakery,oakland,2.7
+513,"ruby king bakery",bakery,oakland,2.0
+514,"fairmont bake shop",bakery,pacifica,2.0
+515,"palo alto baking co.",bakery,"palo alto",3.8
+516,"prolific oven",bakery,"palo alto",3.3
+517,"stanford pastries",bakery,"palo alto",2.0
+518,"dutch treats bakery",bakery,"pleasant hill",2.0
+519,"vie de france corporation",bakery,pleasanton,2.0
+520,"noble pies",bakery,richmond,2.0
+521,"rosemary's bakery",bakery,richmond,2.7
+522,"the little bread board",bakery,"san carlos",2.0
+523,"andre-boudin bakeries",bakery,"san jose",2.0
+524,"freshly baked eatery",bakery,"san jose",2.0
+525,"the bread basket",bakery,"san jose",2.0
+526,"creative croissante",bakery,"san ramon",2.0
+527,"german bakery",bakery,"san ramon",2.3
+528,"rebecca's mighty muffins",bakery,"santa cruz",3.0
+529,"sisters bake shop & restaurant",bakery,sunnyvale,2.0
+530,"vie de france bakery",bakery,"union city",2.0
+531,"andre-boudin bakeries inc",bakery,"walnut creek",2.3
+532,"california bakery and restaurant",bakery,"san rafael",2.0
+533,"coco's bakery",bakery,"santa rosa",2.0
+534,"piner bakery",bakery,"santa rosa",2.0
+535,"east west bakery cafe",bakery,sebastopol,2.0
+536,"feed store cafe & bakery the",bakery,sonoma,2.0
+537,"home grown bagels bakery & restaurant",bakery,sonoma,2.0
+538,"homegrown bagels bakery & restaurant",bakery,sonoma,2.0
+539,"homegrown baking company bakery & restaurant",bakery,sonoma,2.0
+540,"homegrown baking company bakery & restaurant",bakery,sonoma,2.0
+541,"oh la la bakery cafes",bakery,"san francisco",2.0
+542,"suzanne's muffins",bakery,"palo alto",2.0
+543,"o! croissant",bakery,"palo alto",2.0
+544,"douce france",bakery,"palo alto",3.3
+545,"douce france",bakery,"palo alto",2.0
+546,"jil's patisserie",bakery,burlingame,3.4
+547,"red a bakery",bakery,"san francisco",2.0
+548,"special treats patisserie",bakery,"san mateo",3.0
+549,bijan,bakery,"san jose",3.0
+550,"the cakery",bakery,burlingame,3.5
+551,"specialty's cafe and bakery",bakery,"san francisco",3.0
+552,"napa valley ovens",bakery,calistoga,2.0
+553,"stella bakery",bakery,"san francisco",3.6
+554,"quick's little alaska",bar,albany,1.7
+555,"the office inc",bar,albany,2.0
+556,"beer garden",bar,antioch,2.0
+557,"ausiello's tavern",bar,belmont,2.0
+558,"belmont bar & grill",bar,belmont,2.0
+559,"henfling's tavern",bar,"ben lomond",1.8
+560,choices,bar,benicia,2.7
+561,"o leary's pub",bar,benicia,2.7
+562,"pastime club",bar,benicia,2.7
+563,"the brewery tia theresa",bar,benicia,1.7
+564,"this bar",bar,benicia,2.0
+565,"barney's solano",bar,berkeley,3.0
+566,"berkeley square",bar,berkeley,2.0
+567,"bison brewing",bar,berkeley,2.6
+568,jupiter,bar,berkeley,3.2
+569,"santa fe bar and grill",bar,berkeley,3.0
+570,"skates on the bay",bar,berkeley,3.9
+571,"starry plough pub",bar,berkeley,2.5
+572,"temple bar",bar,berkeley,2.0
+573,"the albatross pub",bar,berkeley,2.3
+574,"the juice bar collective inc",bar,berkeley,2.0
+575,"scopazzi restaurant",bar,"boulder creek",2.8
+576,"behans an irish pub",bar,burlingame,2.0
+577,"california bar & grill",bar,burlingame,2.0
+578,"california bar & grill",bar,burlingame,2.0
+579,"dicey rileys irish pub",bar,burlingame,2.0
+580,"calistoga inn/calistoga brewer",bar,calistoga,2.3
+581,"gary's sports bar & grill",bar,campbell,2.6
+582,"grand dell saloon",bar,campbell,1.7
+583,"jerseys tavern",bar,campbell,2.8
+584,"kyoto palace",bar,campbell,2.7
+585,"deja vu cocktail lounge",bar,"castro valley",2.0
+586,"doucet saloon",bar,"castro valley",2.0
+587,"poggi's waterfall lounge",bar,"castro valley",2.0
+588,"oaks tavern",bar,castroville,2.0
+589,"giovannis bar & grill",bar,concord,2.0
+590,"hobies roadhouse",bar,concord,2.3
+591,"t r 's bar & grill",bar,concord,3.3
+592,"tachi sushi bar",bar,concord,2.0
+593,"the company bar",bar,concord,2.0
+594,"tropical squeeze juice bar",bar,concord,2.0
+595,"upper level bar & grill",bar,concord,2.0
+596,"valley lounge",bar,concord,2.0
+597,"monte vista inn",bar,cupertino,2.0
+598,"skip's bar & grill",bar,cupertino,2.0
+599,"carnival bar & grill",bar,"daly city",2.0
+600,"globe tavern",bar,"daly city",2.0
+601,"silver moon saloon",bar,"daly city",2.0
+602,"bartolomucci incorporated",bar,danville,2.7
+603,"elliott's bar inc",bar,danville,2.0
+604,"evie's place",bar,dublin,2.0
+605,"gallagher's dublin pub",bar,dublin,2.0
+606,"lyon's brewery of dublin",bar,dublin,3.2
+607,"patrick's pub",bar,dublin,2.0
+608,"doctors sports bar & grill",bar,"east palo alto",2.0
+609,"capri club",bar,"el sobrante",2.0
+610,"nick's lounge",bar,"el sobrante",2.0
+611,"the club omni",bar,emeryville,2.0
+612,"ding's cocktail lounge",bar,fairfield,2.0
+613,"gino's sportsman's club",bar,fairfield,2.0
+614,"legends & heroes sports bar",bar,fairfield,2.0
+615,"back door lounge",bar,fremont,2.0
+616,"cheers cocktail lounge",bar,fremont,2.0
+617,"j c lounge",bar,fremont,2.0
+618,"jd's cocktail lounge",bar,fremont,2.0
+619,"mission bell tavern",bar,fremont,2.0
+620,"niles hard rock station",bar,fremont,2.0
+621,"the office lounge",bar,fremont,2.0
+622,"tony's lounge",bar,fremont,2.0
+623,"san benito house & saloon",bar,"half moon bay",3.0
+624,"bottoms up club",bar,hayward,2.0
+625,"buffalo bill's brewery",bar,hayward,3.3
+626,"calhoun cocktail lounge",bar,hayward,2.0
+627,"daphne gonzales food bar",bar,hayward,2.0
+628,"doucet's lounge",bar,hayward,2.0
+629,"driftwood lounge",bar,hayward,2.0
+630,"fernandes stein longue",bar,hayward,2.0
+631,"gallaghers pub",bar,hayward,2.0
+632,"geneos lounge",bar,hayward,2.0
+633,"hot spot lounge",bar,hayward,2.0
+634,"jack's saloon",bar,hayward,2.0
+635,"layman's lounge",bar,hayward,2.0
+636,"mission lounge",bar,hayward,2.0
+637,"noraebang bar",bar,hayward,2.0
+638,rumors,bar,hayward,2.0
+639,"shar ade cocktails",bar,hayward,2.0
+640,"vintage cellars wine bar cafe",bar,hayward,2.3
+641,"whiskey river saloon",bar,hayward,2.0
+642,"zacks sport lounge",bar,hayward,2.0
+643,"whiskey creek saloon",bar,hollister,2.0
+644,"round-up saloon",bar,lafayette,1.7
+645,"toot's tavern",bar,lafayette,2.0
+646,"beebs bar & grill",bar,livermore,2.8
+647,"rock house saloon",bar,livermore,2.0
+648,"the lounge",bar,livermore,2.0
+649,"mountain charley's saloon",bar,"los gatos",2.0
+650,"fubar's comedy club bar & gril",bar,martinez,2.0
+651,"main street tavern",bar,martinez,2.0
+652,"juice club",bar,"menlo park",2.0
+653,"oasis beer garden",bar,"menlo park",3.0
+654,"galaxy cocktail lounge",bar,milpitas,2.0
+655,"town tavern",bar,milpitas,2.0
+656,"moraga barn",bar,moraga,2.0
+657,"m & h tavern",bar,"morgan hill",2.7
+658,"tied house cafe & brewery",bar,"mountain view",3.0
+659,"harry o'shortal's yard of ale",bar,napa,2.0
+660,"hemphill's cocktail lounge",bar,napa,2.0
+661,"lamplighter lounge",bar,napa,2.0
+662,"nite cap",bar,napa,2.0
+663,"riverside lounge",bar,napa,2.0
+664,"the green door",bar,napa,2.0
+665,"gubera's pub & hofbrau",bar,newark,2.0
+666,"hideway lounge",bar,newark,2.0
+667,"ike's cocktail lounge",bar,newark,2.0
+668,"knotty pine tavern",bar,newark,2.0
+669,"la movida bar",bar,newark,2.0
+670,"2101 club inc",bar,oakland,2.0
+671,"400 club",bar,oakland,2.0
+672,"a & c club",bar,oakland,1.7
+673,"bark n bun",bar,oakland,2.0
+674,barney's,bar,oakland,3.0
+675,barney's,bar,oakland,3.0
+676,"bench & bar",bar,oakland,2.3
+677,"cabel's reef bar",bar,oakland,2.0
+678,"club aloha",bar,oakland,2.0
+679,"club eve",bar,oakland,2.0
+680,"club martinique",bar,oakland,2.0
+681,"club millroc",bar,oakland,2.0
+682,"continental club",bar,oakland,2.0
+683,"court lounge",bar,oakland,2.0
+684,"eli's mile high club & restaur",bar,oakland,2.0
+685,"fruitvale lounge",bar,oakland,2.0
+686,"golden hours lounge",bar,oakland,2.0
+687,"heinolds first & last chance",bar,oakland,2.7
+688,"hilltop tavern",bar,oakland,2.0
+689,"hughes & nells soul food bar",bar,oakland,2.0
+690,"jo ellens lamp lighter lounge",bar,oakland,2.0
+691,"kim's lounge",bar,oakland,2.0
+692,"laurel lounge",bar,oakland,2.0
+693,maxines,bar,oakland,2.0
+694,"mc-nally's inc",bar,oakland,2.0
+695,"mc-nally's inc",bar,oakland,2.7
+696,"oliver's hof-brau & cocktail",bar,oakland,3.0
+697,"ray's club",bar,oakland,2.0
+698,rumors,bar,oakland,2.0
+699,"seven seas",bar,oakland,2.0
+700,"soon's cocktail lounge",bar,oakland,2.0
+701,"sports page",bar,oakland,2.0
+702,"stork club",bar,oakland,2.0
+703,"the club omni",bar,oakland,2.0
+704,"the graduate",bar,oakland,2.0
+705,"the hut",bar,oakland,2.0
+706,"villa nova lounge",bar,oakland,2.0
+707,"whispers cocktail lounge",bar,oakland,2.0
+708,"yee old inn",bar,oakland,2.0
+709,"melody lounge",bar,oakley,2.0
+710,"olympic juice bar",bar,oakley,2.0
+711,"cheers of pacifica",bar,pacifica,2.0
+712,"sport's bar at vallemar statio",bar,pacifica,3.2
+713,"big sky ranch & saloon",bar,"palo alto",2.0
+714,"gordon biersch brewery restaurant",bar,"palo alto",2.7
+715,"rose & crown english food and ale",bar,"palo alto",3.8
+716,"duarte's tavern",bar,pescadero,3.5
+717,"antlers tavern",bar,pinole,2.0
+718,"green lantern lounge",bar,pinole,2.0
+719,"pete's place",bar,pinole,2.0
+720,"silver ridge lounge",bar,pinole,2.0
+721,"kruegers cocktail lounge",bar,pittsburg,2.0
+722,"cj's saloon",bar,"pleasant hill",2.0
+723,"monument lounge",bar,"pleasant hill",2.0
+724,"elvira's castle bar",bar,pleasanton,2.0
+725,"hap's bar & restaurant",bar,pleasanton,2.0
+726,"pardners inn",bar,pleasanton,2.0
+727,"popi lounge",bar,pleasanton,2.7
+728,"sunshine saloon",bar,pleasanton,3.0
+729,"the hop yard",bar,pleasanton,2.8
+730,"union jack pub",bar,pleasanton,2.0
+731,"y all come back saloon",bar,pleasanton,2.0
+732,"alpine beer garden",bar,"portola valley",2.3
+733,"danny's tavern",bar,"redwood city",2.0
+734,pudley's,bar,"redwood city",2.0
+735,"carousal lounge",bar,richmond,2.0
+736,"jerry's cocktail lounge",bar,richmond,2.0
+737,"little ricky's lounge",bar,richmond,2.0
+738,"richmond galileo club",bar,richmond,2.0
+739,"rody's bar",bar,richmond,2.0
+740,"the elkhorn cocktail lounge",bar,richmond,2.0
+741,"striper lounge & restaurant",bar,"rio vista",2.3
+742,"state's tavern",bar,"south san francisco",2.3
+743,"the pub",bar,"south san francisco",2.0
+744,"the rio saloon",bar,"san bruno",2.0
+745,"j b's laurel cocktail lounge",bar,"san carlos",1.7
+746,pudley's,bar,"san carlos",2.0
+747,"club 181",bar,"san francisco",2.0
+748,"bini's bar & grille",bar,"san jose",2.7
+749,"buckhorn tavern",bar,"san jose",2.0
+750,"cup & saucer",bar,"san jose",2.0
+751,"drinks drive thru",bar,"san jose",2.0
+752,"foxn hounds tavern",bar,"san jose",2.0
+753,"gaslight bar & grill",bar,"san jose",2.0
+754,"green parrot lounge",bar,"san jose",2.0
+755,"gregÕs bar",bar,"san jose",2.0
+756,"la cueva bar",bar,"san jose",2.0
+757,"redwood cabin tavern",bar,"san jose",2.0
+758,"tavern 190",bar,"san jose",2.0
+759,"daisy's saloon & liquors",bar,"san juan bautista",2.0
+760,"mom & pop's saloon",bar,"san juan bautista",2.0
+761,"river oaks store & saloon",bar,"san juan bautista",2.0
+762,"billie's lounge",bar,"san leandro",2.0
+763,"brass putter",bar,"san leandro",2.0
+764,"gass house lounge",bar,"san leandro",2.0
+765,"gerry's lounge",bar,"san leandro",2.0
+766,"lakeside lounge",bar,"san leandro",2.0
+767,"marina cocktail lounge",bar,"san leandro",2.0
+768,"shooter's cocktail lounge",bar,"san leandro",2.0
+769,"tommy t's cocktail lounge",bar,"san leandro",2.0
+770,"prince of wales",bar,"san mateo",3.4
+771,"r b's pub",bar,"san pablo",2.0
+772,"tiny's tavern",bar,"san pablo",2.0
+773,"sidelines sport bar/grill rstr",bar,"san ramon",2.0
+774,"a tinker's damn",bar,"santa clara",2.3
+775,"duke's cocktail lounge",bar,"santa clara",2.0
+776,"martins cocktail lounge",bar,"santa clara",2.0
+777,"sportsman bar",bar,"santa clara",2.0
+778,"the 5 cs tavern",bar,"santa clara",2.0
+779,"99 bottles of beer on the wall",bar,"santa cruz",2.4
+780,"island pacific beverage",bar,"santa cruz",2.0
+781,"paul's cocktail lounge",bar,"santa cruz",2.0
+782,"poet & patriot irish pub",bar,"santa cruz",2.0
+783,"rons seaside saloon",bar,"santa cruz",2.0
+784,"santa cruz brewing company",bar,"santa cruz",3.0
+785,"the blue lagoon cocktail lounge",bar,"santa cruz",2.3
+786,"j j 's saloon",bar,soquel,2.0
+787,"sir froggy's pub",bar,soquel,2.0
+788,"a j's waterin hole",bar,"suisun city",2.0
+789,"parkers old town tavern",bar,"suisun city",2.0
+790,"vic's pioneer bar",bar,"suisun city",2.0
+791,"a & w restaurant",bar,sunnyvale,2.0
+792,"benchmark brewing company",bar,sunnyvale,2.0
+793,cheers,bar,sunnyvale,1.7
+794,"faultline brewing company",bar,sunnyvale,2.8
+795,"dyer street salon",bar,"union city",2.0
+796,"leo's lounge",bar,"union city",2.0
+797,"old mill tavern",bar,"union city",2.0
+798,"the shuttle cocktail lounge",bar,"union city",2.0
+799,"after five",bar,vallejo,2.0
+800,"bandwagon lounge",bar,vallejo,2.0
+801,"chris's club",bar,vallejo,2.0
+802,"dinky doo's bar",bar,vallejo,2.0
+803,"dunphy's tavern",bar,vallejo,2.0
+804,"freddie's china barn",bar,vallejo,2.0
+805,"george's den",bar,vallejo,2.0
+806,"horse & cow",bar,vallejo,2.0
+807,"josey wales country nite club",bar,vallejo,2.0
+808,"kesler's lounge",bar,vallejo,2.0
+809,"my office bar & grill",bar,vallejo,2.0
+810,"nitti gritti lounge",bar,vallejo,2.0
+811,"popcorn tavern",bar,vallejo,2.0
+812,"shamrock club",bar,vallejo,2.0
+813,"stan's lounge",bar,vallejo,2.0
+814,"terrible teris tavern",bar,vallejo,2.0
+815,"artie's countrywood lounge inc",bar,"walnut creek",2.0
+816,"d j",bar,"walnut creek",2.0
+817,"dan's bar",bar,"walnut creek",2.0
+818,onyx,bar,"walnut creek",2.0
+819,"sports bar",bar,"walnut creek",2.0
+820,wplj's,bar,"walnut creek",2.3
+821,"mel's waterfront bar & food",bar,watsonville,2.0
+822,"pioneer saloon",bar,woodside,2.0
+823,"bad otter",bar,"half moon bay",2.8
+824,jupiter,bar,berkeley,2.6
+825,"fords snack bar",bar,dixon,2.0
+826,"wallys bar & grill",bar,dixon,2.0
+827,"wallys restaurant & bar",bar,dixon,2.0
+828,"fords snack bar",bar,fairfield,2.0
+829,"russian river pub",bar,forestville,2.0
+830,"holidaze bar & grill",bar,petaluma,2.0
+831,"kelly's bar & restaurant",bar,petaluma,2.0
+832,"mcnear's saloon & dining house",bar,petaluma,3.0
+833,"papas' taverna",bar,petaluma,2.4
+834,"stormy's bloomfield tavern spirits & supper",bar,petaluma,3.0
+835,"volpi's ristorante & bar",bar,petaluma,2.6
+836,"chili's grill & bar",bar,"rohnert park",2.0
+837,"cybelle's pizza & sports bar",bar,"rohnert park",2.0
+838,"don's bar & sports",bar,"rohnert park",2.0
+839,"yu shang mandarin restaurant & sushi bar",bar,"san rafael",1.7
+840,"barleycorn's saloon & eatery",bar,"santa rosa",2.0
+841,"bull moose saloon & pizza co",bar,"santa rosa",2.0
+842,"joe's of santa rosa restaurant & bar",bar,"santa rosa",2.0
+843,"john barleycorn saloon & eatery",bar,"santa rosa",2.0
+844,"lucas wharf restaurant & bar",bar,"santa rosa",2.0
+845,"pierce street annex restaurant and bar",bar,"santa rosa",2.0
+846,"r & s bar",bar,"santa rosa",2.0
+847,"rusty putter restaurant & bar",bar,"santa rosa",2.0
+848,"sharleen's snack bar",bar,"santa rosa",2.0
+849,"sweetriver saloon",bar,"santa rosa",2.0
+850,"sausalito inn bar & restaurant",bar,sausalito,2.0
+851,"greenhouse restaurant & tavern restaurant",bar,sebastopol,2.0
+852,"jasper o'farrell's pub & restaurant",bar,sebastopol,2.0
+853,"skip's bar & grill",bar,sebastopol,2.0
+854,"eastside oyster bar & grill",bar,sonoma,2.7
+855,"sonoma grove bar & grill",bar,sonoma,2.0
+856,"bankfirst natl bar & grill",bar,"suisun city",2.0
+857,"todd park snack bar",bar,"suisun city",2.0
+858,"mortara joe snack bar",bar,vallejo,2.0
+859,"anchor oyster bar",bar,"san francisco",2.7
+860,"aroma espresso bar",bar,"san francisco",2.0
+861,"banks bar",bar,"san francisco",2.0
+862,"blarney stone bar & restaurant",bar,"san francisco",2.0
+863,"city of paris restaurant & bar",bar,"san francisco",2.7
+864,"eat & run snack bar",bar,"san francisco",2.0
+865,"el oso bar and restaurant",bar,"san francisco",2.0
+866,"garden juice bar",bar,"san francisco",2.0
+867,"greeley's restaurant & bar",bar,"san francisco",2.0
+868,"jazz at pearl's restaurant & bar",bar,"san francisco",2.7
+869,"joes snack bar",bar,"san francisco",2.0
+870,"johnnys o's snack bar",bar,"san francisco",2.0
+871,"kezar bar & restaurant",bar,"san francisco",2.3
+872,"lee's snack bar",bar,"san francisco",2.0
+873,"martin macks bar & restaurant",bar,"san francisco",2.0
+874,"metro bar and restaurant the",bar,"san francisco",2.0
+875,"monte carlo restaurant & bar t",bar,"san francisco",2.0
+876,"oppenheimer restaurant & bar",bar,"san francisco",2.0
+877,"parc place restaurant & bar",bar,"san francisco",2.0
+878,"pearl's jazz restaurant & bar",bar,"san francisco",2.0
+879,"r cafe bar & restaurant",bar,"san francisco",2.0
+880,"raw bar hyde street seafood ho",bar,"san francisco",2.0
+881,"richards snack bar",bar,"san francisco",2.0
+882,"square bar & restaurant the",bar,"san francisco",2.0
+883,"st john's snack bar",bar,"san francisco",2.0
+884,"steve's snack bar",bar,"san francisco",2.0
+885,"pasta pomodor",bar,"san francisco",2.0
+886,"the square bar & restaurant",bar,"san francisco",2.0
+887,"empire tap room",bar,"palo alto",3.1
+888,"los gatos bar & grill",bar,"los gatos",2.7
+889,"horse shoe club",bar,"santa clara",2.0
+890,"roster t. feathers",bar,sunnyvale,2.0
+891,"island food & grog, the",bar,"palo alto",3.3
+892,"paddy's irish bar",bar,"san jose",2.0
+893,"coach's corner",bar,"san jose",2.0
+894,"gulf coast grill & bar",bar,oakland,2.0
+895,"triple rock brewery",bar,berkeley,2.0
+896,moose's,bar,"san francisco",3.2
+897,"akasaka cocktail",bar,"san francisco",2.7
+898,"the hopyard",bar,pleasanton,3.3
+899,"ivys restaurant & bar",bar,"san francisco",2.0
+900,"annabelle's bar & bistro",bar,"san francisco",2.7
+901,"clement street bar and grill",bar,"san francisco",2.0
+902,"harbor fifteen",bar,"san rafael",2.0
+903,"mudville grill",bar,clayton,2.3
+904,"big horn",bar,"san ramon",2.3
+905,"pete's brass rail and car wash",bar,danville,2.3
+906,"burlingame station",bar,burlingame,2.4
+907,infusion,bar,"san francisco",2.3
+908,"mars cafe",bar,"san francisco",2.0
+909,max's,bar,"san jose",2.0
+910,"thirsty bear brewing co",bar,"san francisco",2.3
+911,"hydro bar & grill",bar,calistoga,2.0
+912,"bear republic brewing co., inc.",bar,healdsburg,2.0
+913,"maui rock bar & grill",bar,newark,1.8
+914,"the surfwood",bar,calistoga,2.0
+915,susie,bar,calistoga,2.0
+916,"cole's bar b",barbeque,aptos,2.0
+917,"carmen & family bar b que",barbeque,berkeley,2.3
+918,"mama's barbeque",barbeque,berkeley,2.0
+919,"thai barbeque",barbeque,berkeley,1.8
+920,"down home texas barbeque",barbeque,brentwood,2.0
+921,"andy's bar-b-q",barbeque,campbell,2.4
+922,"tony romas",barbeque,danville,3.0
+923,"goldie's oakwood bar b-q",barbeque,"east palo alto",2.0
+924,"piggys pizza & ribs",barbeque,"el cerrito",3.0
+925,"tony roma",barbeque,fairfield,2.0
+926,"blue pacific",barbeque,"half moon bay",2.0
+927,"emil villa barbeque pit",barbeque,hayward,2.5
+928,"everett & jones",barbeque,hayward,2.7
+929,"han yang bbq",barbeque,hayward,2.0
+930,"hickory pit",barbeque,hayward,2.0
+931,"california barbeque",barbeque,"los altos",2.0
+932,"little lous bbq",barbeque,"los gatos",2.0
+933,"down home texas bbq",barbeque,martinez,2.0
+934,"rib crib",barbeque,milpitas,2.0
+935,"rib cage restaurant",barbeque,newark,2.0
+936,"big daddy's smoke house",barbeque,oakland,2.0
+937,"everett & jones",barbeque,oakland,3.0
+938,"flint's barbeque",barbeque,oakland,3.7
+939,"happy bar b q",barbeque,oakland,2.0
+940,"the drivers soul foods & bbq",barbeque,oakland,2.0
+941,"walts hickory",barbeque,oakland,2.0
+942,"wess & virginia's bbq",barbeque,oakland,2.0
+943,"h double h bar-b-que",barbeque,"palo alto",2.0
+944,"the back forty corporation",barbeque,"pleasant hill",3.7
+945,"pearl's bar-b-que pit",barbeque,pleasanton,2.7
+946,"tommy's bar b que",barbeque,"san carlos",2.0
+947,"big nate's barbeque",barbeque,"san francisco",1.7
+948,"collier's bar-b-que",barbeque,"san francisco",2.0
+949,"flintroy's bar-b-q",barbeque,"san francisco",2.0
+950,"tony roma's",barbeque,"san francisco",2.0
+951,"family bar b",barbeque,"san jose",2.0
+952,"flo's bar b que",barbeque,"san jose",2.0
+953,"gilberto's bar",barbeque,"san jose",2.0
+954,"goldie's oakwood bar b-q",barbeque,"san jose",2.0
+955,"kim tuong bbq restaurant",barbeque,"san jose",2.0
+956,"kiu kee b b q  dim sum & chine",barbeque,"san jose",2.0
+957,"mr barbeque",barbeque,"san jose",2.0
+958,"nigel's bar b q restaurant",barbeque,"san jose",2.0
+959,"quincy's bar b",barbeque,"san jose",2.0
+960,"sam's bbq",barbeque,"san jose",3.3
+961,"scott bar b que",barbeque,"san jose",2.0
+962,"tess's b bq diner",barbeque,"san jose",2.0
+963,"the bbq boys",barbeque,"san jose",2.0
+964,"old south bar b que",barbeque,"san leandro",3.6
+965,"tony roma's of norcal",barbeque,"suisun city",2.0
+966,"miramar cafe bbq express",barbeque,sunnyvale,2.0
+967,"mr d's & sons bbq & catering",barbeque,sunnyvale,3.0
+968,"t&j's southern style bbq",barbeque,sunnyvale,2.0
+969,"porky's bar-b-que",barbeque,hayward,2.8
+970,"emil villa's, the original hick'ry pit",barbeque,livermore,2.5
+971,"back forty texas bbq",barbeque,benicia,2.0
+972,"three cook's barbeque",barbeque,petaluma,2.7
+973,"bbq al gaucho",barbeque,"san rafael",2.0
+974,"john's catering & traveling barbeque",barbeque,"santa rosa",2.0
+975,"pack jack bar-b-que inn",barbeque,sebastopol,2.3
+976,"ds bar b q",barbeque,"suisun city",2.0
+977,"lees barbque",barbeque,vallejo,2.0
+978,"king charcoal barbeque",barbeque,"san francisco",2.0
+979,"smile bbq",barbeque,"san francisco",2.0
+980,"young's barbeque",barbeque,"san francisco",2.0
+981,"hung won bbq",barbeque,"san jose",2.0
+982,"new tung kee",barbeque,"san jose",2.0
+983,"de angelos",barbeque,"san jose",2.0
+984,"clay's barbeque",barbeque,benicia,2.3
+985,"barley & hopps",barbeque,"san mateo",3.0
+986,"emil villa's california bbq",barbeque,fremont,1.8
+987,willy's,barbeque,newark,3.0
+988,"willy's smokehouse & bbq",barbeque,newark,2.6
+989,"michael k's, the original hick'ry pit",barbeque,campbell,2.0
+990,"heavenly hot restaurant",barbeque,"san francisco",2.3
+991,"porter street barbeque",barbeque,cotati,2.3
+992,rib-o-licious,barbeque,newark,2.0
+993,"flints bar-b-q take-out",barbeque,"san leandro",2.0
+994,"the central texan barbeque",barbeque,castroville,3.0
+995,"redneck earl's",barbeque,"san mateo",2.3
+996,austin's,barbeque,"mountain view",2.5
+997,austin's,barbeque,"mountain view",2.0
+998,"le chalet basque",basque,"san rafael",2.7
+999,"bistro alexis",belgian,"san francisco",3.0
+1000,"mixx-an american bistro",bistro,"santa rosa",2.8

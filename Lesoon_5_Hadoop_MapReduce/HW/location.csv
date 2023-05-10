@@ -1,0 +1,1001 @@
+id_restaurant,street_num,street_name,city
+1,242,"church st","san francisco"
+2,135,"el camino real","san carlos"
+3,430,broadway,"san francisco"
+4,1103,"e. el camino real",sunnyvale
+5,833,"w. el camino real",sunnyvale
+6,NULL,NULL,NULL
+7,155,"san fernando","san jose"
+8,2118,"mt diablo st",concord
+9,3005,"alamo drive (corner nut tree)",vacaville
+11,907,irving,"san francisco"
+12,10905,"wolfe rd. cupertino",cupertino
+13,4857,"fremont blvd",fremont
+14,1520,"park st",alameda
+15,1231,"park st",alameda
+16,2375,"shoreline dr",alameda
+17,979,"san pablo ave",albany
+18,1477,"solano ave",albany
+19,2009,"somersville rd",antioch
+20,511,"claverie way",benicia
+21,1034,"1st st",benicia
+22,NULL,"2nd st",benicia
+23,2072,"san pablo ave.",berkeley
+24,2000,"university ave",berkeley
+25,1300,"4th st",berkeley
+26,2922,"domingo ave",berkeley
+27,1974,"shattuck ave",berkeley
+28,1135,"2nd st",brentwood
+29,8300,"brentwood blvd # a",brentwood
+30,1631,"lincoln ave",calistoga
+31,1374,"lincoln ave",calistoga
+32,580,"w hamilton ave",campbell
+33,2060,"s bascom ave",campbell
+34,3240,"castro valley blvd","castro valley"
+35,3774,"castro valley blvd","castro valley"
+36,1089,"oak grove rd",concord
+37,4391,"treat blvd",concord
+38,1313,"willow pass rd",concord
+39,4050,"port chicago hwy",concord
+40,4301,"clayton rd",concord
+41,2090,"diamond blvd",concord
+42,1100,"concord ave",concord
+43,NULL,NULL,NULL
+44,21267,"stevens creek blvd",cupertino
+45,10215,"anthony pl",cupertino
+46,10145,"n de anza blvd",cupertino
+47,10700,"s de anza blvd",cupertino
+48,10343,"n wolfe rd",cupertino
+49,10343,"n wolfe rd",cupertino
+50,20807,"stevens creek blvd",cupertino
+51,371,"gellert blvd","daly city"
+52,387,"diablo rd",danville
+53,807,"camino ramon",danville
+54,185,railroad,danville
+55,117,"town and country dr ste a",danville
+56,7505,"dublin blvd",dublin
+57,7944,"dublin blvd",dublin
+58,7265,"amador valley blvd",dublin
+59,7783,"amador valley blvd",dublin
+60,6120,"potrero ave","el cerrito"
+61,10,"el cerrito plz","el cerrito"
+62,4006,"granada rd","el sobrante"
+63,1776,"powell st",emeryville
+64,5750,"christie ave",emeryville
+65,5862,"doyle st",emeryville
+66,260,"pittman rd",fairfield
+67,1360,"holiday ln",fairfield
+68,2980,"travis blvd",fairfield
+69,1545,"webster st # a",fairfield
+70,1955,"texas st",fairfield
+71,2390,"n texas st",fairfield
+72,39131,"fremont blvd",fremont
+73,5280,"mowry ave",fremont
+74,46645,"mission blvd",fremont
+75,40800,"fremont blvd",fremont
+76,36930,"fremont blvd",fremont
+77,4628,"ariel ave",fremont
+78,5339,"mowry ave",fremont
+79,39350,"paseo padre pky",fremont
+80,39170,"argonaut way",fremont
+81,3241,"walnut avenue",fremont
+82,20413,"hesperian blvd",hayward
+83,30163,"industrial pky sw",hayward
+84,24100,"mission blvd",hayward
+85,25010,"hesperian blvd",hayward
+86,191,"san felipe rd # g",hollister
+87,526,"san benito st",hollister
+88,3201,"mount diablo blvd",lafayette
+89,3535,"mount diablo blvd",lafayette
+90,3659,"happy valley rd",lafayette
+91,3474,"mount diablo blvd",lafayette
+92,117,"s s st",livermore
+93,2293,"1st st",livermore
+94,875,"rincon ave",livermore
+95,2310,"homestead rd","los altos"
+96,4710,"el camino real","los altos"
+97,130,"n. santa cruz ave.","los gatos"
+98,206,"n santa cruz ave","los gatos"
+99,500,"center ave",martinez
+100,3925,"alhambra ave",martinez
+101,200,"serra way # 170",milpitas
+102,1181,"e calaveras blvd",milpitas
+103,333,"s abbott ave",milpitas
+104,18599,"sutter blvd","morgan hill"
+105,65,"w main ave","morgan hill"
+106,1991,"w el camino real","mountain view"
+107,1000,"imola ave",napa
+108,1044,"los carneros ave",napa
+109,1175,"trancas st",napa
+110,5,"financial plz ste 120",napa
+111,359,"1st st",napa
+112,376,"soscol ave",napa
+113,3958,"bel aire plz",napa
+114,5989,"mowry ave",newark
+115,1031,"newpark mall",newark
+116,405,"hegenberger rd",oakland
+117,1300,"clay st ste 600",oakland
+118,1000,"cotton st",oakland
+119,601,"hegenberger rd",oakland
+120,1620,"chestnut st",oakland
+121,3017,"san pablo ave",oakland
+122,6118,"medau pl",oakland
+123,412,"14th st",oakland
+124,3701,"grand ave",oakland
+125,1916,"franklin st",oakland
+126,1211,embarcadero,oakland
+127,8475,"edes ave",oakland
+128,3859,"piedmont ave",oakland
+129,1,broadway,oakland
+130,51,"embarcadero cv",oakland
+131,495,embarcadero,oakland
+132,2477,"monterey blvd",oakland
+133,101,broadway,oakland
+134,5239,"telegraph ave",oakland
+135,127,"town and country vlg","palo alto"
+136,445,"emerson st.","palo alto"
+137,27,"university ave","palo alto"
+138,556,emerson,"palo alto"
+139,529,"alma st.","palo alto"
+140,265,"lytton ave","palo alto"
+141,1921,"el camino real","palo alto"
+142,185,"university ave","palo alto"
+143,34,"dormidera ave",piedmont
+144,2454,"san pablo ave",pinole
+145,2400,"san pablo ave",pinole
+146,3788,railroad,pittsburg
+147,3200,"buskirk ave","pleasant hill"
+148,612,"contra costa blvd","pleasant hill"
+149,624,"contra costa blvd","pleasant hill"
+150,2059,"contra costa blvd","pleasant hill"
+151,4801,"hopyard rd",pleasanton
+152,6455,"owens dr",pleasanton
+153,6464,"owens dr",pleasanton
+154,4887,"hopyard rd",pleasanton
+155,5121,"hopyard rd",pleasanton
+156,12976,"san pablo ave",richmond
+157,145,"tweksbury ave.",richmond
+158,1950,esplanade,richmond
+159,35,"e. richmond ave.",richmond
+160,49,"washington ave.",richmond
+161,180,"s airport blvd","south san francisco"
+162,641,"main st","saint helena"
+163,1245,"spring st","saint helena"
+164,1270,"el camino real # 1272","san bruno"
+165,1250,"grundy ln","san bruno"
+166,1250,"grundy ln","san bruno"
+167,216,church,"san francisco"
+168,840,ulloa,"san francisco"
+169,222,mason,"san francisco"
+170,500,"presidion avenue","san francisco"
+171,NULL,"the fairmont","san francisco"
+172,1300,"battery st","san francisco"
+173,55,stevenson,"san francisco"
+174,2100,"van ness avenue","san francisco"
+175,339,"taylor, steak, prime rib","san francisco"
+176,3349,steiner,"san francisco"
+177,4320,mission,"san francisco"
+178,96,"mc allister","san francisco"
+179,198,5th,"san francisco"
+180,607,front,"san francisco"
+181,1944,union,"san francisco"
+182,NULL,wharf,"san francisco"
+183,2197,fillmore,"san francisco"
+184,1151,folsom,"san francisco"
+185,395,hayes,"san francisco"
+186,150,"s 1st st","san jose"
+187,150,"s 1st st ste 111","san jose"
+188,1753,"n 1st st","san jose"
+189,2820,"s white rd","san jose"
+190,NULL,exp/riveroaks,"san jose"
+191,1051,"blossom hill rd","san jose"
+192,3758,"stevens creek blvd # 9","san jose"
+193,620,"blossom hill rd","san jose"
+194,780,"s winchester blvd","san jose"
+195,2831,"meridian ave","san jose"
+196,981,"blossom hill rd","san jose"
+197,15011,"hesperian blvd","san leandro"
+198,1803,"marina blvd","san leandro"
+199,15015,"freedom ave","san leandro"
+200,201,"davis st","san leandro"
+201,14660,"washington ave","san leandro"
+202,105,"w 25th ave","san mateo"
+203,3101,"s el camino real","san mateo"
+204,2410,"san ramon valley blvd #130","san ramon"
+205,10,"boardwalk pl","san ramon"
+206,2410,"san ramon valley blvd #130","san ramon"
+207,2410,"san ramon valley blvd","san ramon"
+208,2570,"el camino real","santa clara"
+209,2886,"sycamore way","santa clara"
+210,2705,"the alameda","santa clara"
+211,2018,"mission st","santa cruz"
+212,429,"front st","santa cruz"
+213,801,bridgeway,sausalito
+214,1879,"rockville rd","suisun city"
+215,108,"g sunset shopping center","suisun city"
+216,603,"& 605 main st","suisun city"
+217,1314,"s mary ave",sunnyvale
+218,122,"s. sunnyvale ave.",sunnyvale
+219,122,"s. sunnyvale ave.",sunnyvale
+220,NULL,"mathilda at hwy 237",sunnyvale
+221,122,"s. sunnyvale ave.",sunnyvale
+222,34396,"alvarado niles rd","union city"
+223,31860,"alvarado blvd","union city"
+224,4355,"sonoma blvd",vallejo
+225,250,"fairgrounds dr",vallejo
+226,730,"lincoln rd e",vallejo
+227,980,"admiral callaghan ln",vallejo
+228,199,"lincoln rd w",vallejo
+229,950,"sherwood ave",vallejo
+230,44,"admiral callaghan ln",vallejo
+231,1411,"locust st","walnut creek"
+232,2387,"n main st","walnut creek"
+233,700,"bancroft rd","walnut creek"
+234,1387,"locust st","walnut creek"
+235,660,"ygnacio valley rd","walnut creek"
+236,1750,"n main st","walnut creek"
+237,1101,"s california blvd","walnut creek"
+238,850,"s brd","walnut creek"
+239,6510,"washington st",yountville
+240,215,"west portal avenue","san francisco"
+241,NULL,NULL,NULL
+242,22,"hawthorne st","san francisco"
+243,1,"mission st","san francisco"
+244,NULL,"london square",oakland
+245,305,"harbor dr.",sausalito
+246,1200,"grant avenue",novato
+247,1360,"locust st","walnut creek"
+248,1230,"grant ave.","san francisco"
+249,2799,"lone tree way",antioch
+250,NULL,st,byron
+251,303,"soscol ave",napa
+252,301,"rohnert park expy w","rohnert park"
+253,1350,"farmers ln","santa rosa"
+254,NULL,NULL,NULL
+255,1901,"mendocino ave","santa rosa"
+256,3703,main,sebastopol
+257,2353,"lombard st","san francisco"
+258,2010,"rollingwood drive","san bruno"
+259,5970,"san felipe rd",hollister
+260,NULL,"teresa and bernal","san jose"
+261,3955,"freedom circle","santa clara"
+262,NULL,NULL,NULL
+263,651,"emerson st","palo alto"
+264,1160,"coleman ave.","san jose"
+265,NULL,"rita rd.& rosewood dr.",pleasanton
+266,NULL,st,livermore
+267,855,"main st",pleasanton
+268,620,"airport drive","san carlos"
+269,163,"w santa clara st","san jose"
+270,NULL,drive,"san rafael"
+271,4096,"bay st",fremont
+272,NULL,"7th & west g",banta
+273,10201,"old redwood hwy",pengrove
+274,NULL,"corner 16th & market","san francisco"
+275,3991,st,"san francisco"
+276,3634,"sacramento st. @ locust","san francisco"
+277,330,"tennant station","morgan hill"
+279,340,"division st","san francisco"
+280,2325,"taraval st","san francisco"
+281,3140,"alpine rd","portola valley"
+282,9900,"sonoma hwy.",kenwood
+283,1717,"adobe canyon rd",kenwood
+284,NULL,st,"san carlos"
+285,NULL,st,benicia
+286,NULL,square,"san francisco"
+287,15,"harbor st","san rafael"
+288,4000,"s. el camino real","san mateo"
+289,75,"arbor rd.","menlo park"
+290,5634,"college ave.",oakland
+291,751,"e. el camino real",sunnyvale
+292,1940,taraval,"san francisco"
+293,620,"lighthouse avenue","pacific grove"
+294,822,"irving st","san francisco"
+295,NULL,"antonio rd","los altos"
+296,42,"columbus ave.","san francisco"
+297,NULL,"ramon blvd.","san ramon"
+298,1695,"st @ clay","san francisco"
+299,2274,"lombard st","san francisco"
+300,14515,"big basin way",saratoga
+301,445,"blossom hill rd.","san jose"
+302,2,"theatre square",orinda
+303,3955,"freedom circle","santa clara"
+304,1695,"polk st @ clay","san francisco"
+305,1250,"bayshore hwy",burlingame
+306,1115,"willow st","san jose"
+307,8200,"arroyo circle",gilroy
+308,1658,"market st. at franklin st.","san francisco"
+309,450,"water st",oakland
+310,5400,"sunol blvd",pleasanton
+311,5765,"christie ave.",emeryville
+312,740,"sutter st","san francisco"
+313,NULL,"and callendar",inverness
+314,4050,"byway east",napa
+315,5121,"hopyard rd",pleasanton
+316,1680,"willow pass rd",concord
+317,3800,"valley vista rd.","walnut creek"
+318,336,"bryant st.","mountain view"
+319,800,"southampton rd",benicia
+320,207,"west main avenue","morgan hill"
+321,1349,"park st",alameda
+322,550,"showers dr. / walmart shopping center","mountain view"
+323,63,"ellis st","san francisco"
+324,240,california,"san francisco"
+325,1699,"van ness ave","san francisco"
+326,601,"van ness ave","san francisco"
+327,2468,"junipero serra bl.","daly city"
+328,1676,"n. california blvd.","walnut creek"
+330,NULL,"lake resort","mammoth lakes"
+331,1528,"tavern rd","mammoth lakes"
+332,2421,"larkspur landing circle",larkspur
+333,NULL,NULL,NULL
+334,56,"gold st","san francisco"
+335,511,"hayes st","san francisco"
+336,NULL,"rd. at i-580",pleasanton
+337,NULL,"rd. at i-580",pleasanton
+338,345,"healdsburg avenue",healdsburg
+339,2029,"market st","san francisco"
+340,1437,"lincoln ave.",calistoga
+341,1163,"san carlos ave","san carlos"
+342,1440,"lincoln ave.",calistoga
+343,1200,"el paseo de saratoga","san jose"
+344,2329,"n. fremont",monterey
+345,546,"university ave.","palo alto"
+346,347,"primrose rd",burlingame
+347,899,"el camino real","san bruno"
+348,1200,"6th. st","san francisco"
+349,408,"main st","half moon bay"
+350,400,"s. main st. (highway one)","fort bragg"
+351,1600,"old bayshore highway",burlingame
+352,1981,"diamond blvd.",concord
+353,6126,"medaue place",oakland
+354,1410,"s. cabrillo hwy.","half moon bay"
+355,NULL,blvd,milpitas
+356,NULL,NULL,NULL
+357,26270,dolores,carmel
+358,2434,"mission st","san francisco"
+359,3340,"mowry ave",fremont
+360,1919,"ocean avenue","san francisco"
+361,1516,broadway,"san francisco"
+362,4031,balboa,"san francisco"
+363,2115,"irving st","san francisco"
+364,929,"e duane ave",sunnyvale
+365,9071,"soquel dr",aptos
+366,8035,"soquel dr ste 21",aptos
+367,1815,"s bascom ave",campbell
+368,851,"w hamilton ave",campbell
+369,2895,"s bascom ave",campbell
+370,427,"capitola ave",capitola
+371,1855,"41st ave # r-6",capitola
+372,7,"san pedro rd",colma
+373,1058,"shell blvd","foster city"
+374,1026,"foster city blvd","foster city"
+375,1458,"pollard rd","los gatos"
+376,14107,"winchester blvd # s","los gatos"
+377,1320,"el camino real",millbrae
+378,90,"s abel st",milpitas
+379,750,"e calaveras blvd",milpitas
+380,1818,"milmont dr",milpitas
+381,89,"s park victoria dr",milpitas
+382,1549,"landess ave",milpitas
+383,72,"s park victoria dr",milpitas
+384,1228,"s abel st",milpitas
+385,62,"dixon rd",milpitas
+386,1470,"n milpitas blvd",milpitas
+387,212,"castro st","mountain view"
+388,303,"san pedro ave",pacifica
+389,855,"main st","redwood city"
+390,2211,"gellert blvd","south san francisco"
+391,480,"san anselmo ave s","san bruno"
+392,130,"el camino real","san bruno"
+393,354,"el camino real","san bruno"
+394,370,"san bruno ave w","san bruno"
+395,649,"san mateo ave","san bruno"
+396,576,"san mateo ave","san bruno"
+397,1195,"laurel st","san carlos"
+398,66,"club dr","san carlos"
+399,374,"e santa clara st","san jose"
+400,301,"e santa clara st # c","san jose"
+401,1006,"e santa clara st","san jose"
+402,2859,"senter rd","san jose"
+403,198,"w santa clara st","san jose"
+404,795,"s 2nd st","san jose"
+405,6081,"meridian ave # f","san jose"
+406,797,"e julian st","san jose"
+407,674,"n 13th st # a","san jose"
+408,457,"e san carlos st","san jose"
+409,3017,"meridian ave","san jose"
+410,1749,"alum rock ave","san jose"
+411,NULL,NULL,NULL
+412,2384,"senter rd","san jose"
+413,80,"s 2nd st","san jose"
+414,974,"lundy ave","san jose"
+415,2345,"mckee rd","san jose"
+416,348,"e santa clara st","san jose"
+417,439,"camille cir unit 15","san jose"
+418,3656,"cherry ave","san jose"
+419,3680,"stevens creek blvd # c","san jose"
+420,2863,"senter rd","san jose"
+421,2597,"senter rd","san jose"
+422,2593,"senter rd","san jose"
+423,2857,"senter rd # c","san jose"
+424,1939,"alum rock ave # h","san jose"
+425,535,"e santa clara st","san jose"
+426,185,"park ave","san jose"
+427,32,"42nd ave","san mateo"
+428,3708,"s el camino real","san mateo"
+429,2456,"s el camino real","san mateo"
+430,500,"lawrence expy # c","santa clara"
+431,3484,"el camino real","santa clara"
+432,61,"washington st","santa clara"
+433,1111,"el camino real","santa clara"
+434,1547,"pacific ave # b","santa cruz"
+435,105,"hagemann ave","santa cruz"
+436,1733,"seabright ave","santa cruz"
+437,533,"ocean st","santa cruz"
+438,4303,"1/2 scotts valley dr","scotts valley"
+439,4610,"soquel dr",soquel
+440,3045,"porter st",soquel
+441,4720,"soquel dr",soquel
+442,542,"lakeside dr # 3",sunnyvale
+443,219,"e washington ave",sunnyvale
+444,172,"s murphy ave",sunnyvale
+445,NULL,NULL,NULL
+446,1031,"e duane ave # i",sunnyvale
+447,307,"n fairoaks ave",sunnyvale
+448,1230,"grant ave.","san francisco"
+449,799,"gravenstein hwy s",sebastopol
+450,760,"clay st","san francisco"
+451,1107,"market st","san francisco"
+452,2520,"noriega st","san francisco"
+453,1205,"el camino real","santa clara"
+454,2277,"el camino real","santa clara"
+455,5101,"great america parkway / westin hotel","santa clara"
+456,2030,"union st","san francisco"
+457,5720,"mowry school rd",newark
+458,2420,"lombard (at scott)","san francisco"
+459,1475,"polk st","san francisco"
+460,900,"pine st.","san francisco"
+461,2545,"polk st.","san francisco"
+462,2,"stanford shopping center","palo alto"
+463,637,"so. b st.","san mateo"
+464,1227,"park st",alameda
+465,820,"parker st bldg 13",berkeley
+466,2045,"allston way",berkeley
+467,3170,"college ave",berkeley
+468,2000,"powell st",emeryville
+469,4240,"hollis st",emeryville
+470,310,"main st","los altos"
+471,125,"w main st","los gatos"
+472,869,"santa cruz ave","menlo park"
+473,233,"w main ave # b","morgan hill"
+474,1040,"grant rd ste 160","mountain view"
+475,1011,"1st st",napa
+476,1408,"clay st",napa
+477,180,"grand ave ste 115",oakland
+478,2204,broadway,oakland
+479,642,"ramona st","palo alto"
+480,1300,polk,"san francisco"
+481,320,"cedar st # a","santa cruz"
+482,1634,"seabright ave","santa cruz"
+483,NULL,NULL,NULL
+484,12840,"saratoga sunnyvale rd",saratoga
+485,4763,"soquel dr",soquel
+486,2909,"ygnacio valley rd","walnut creek"
+487,NULL,"hill rd. next to whole foods","los gatos"
+488,1200,"or 1300 something on gilman st.",berkeley
+489,2310,"mendocino ave","santa rosa"
+490,515,"hahman dr","santa rosa"
+491,122,"w napa st",sonoma
+492,19161,"sonoma hwy",sonoma
+493,278,"university ave.","palo alto"
+494,220,hamilton,"palo alto"
+495,260,"lorton avenue",burlingame
+496,2134,"polk st","san francisco"
+497,NULL,"shore shopping center",alameda
+498,1872,"a st",antioch
+499,324,"g st",antioch
+500,217,"appleton dr",aptos
+501,1983,"shattuck ave",berkeley
+502,6258,"bethel island rd","bethel island"
+503,504,"bay ave",capitola
+504,295,"lake merced blvd","daly city"
+505,357,"los cerritos ave","el cerrito"
+506,3333,"n texas st",fairfield
+507,6259,"graham hill rd",felton
+508,1029,"arnold dr ste 3",martinez
+509,325,"sharon park dr","menlo park"
+510,380,"s main st",milpitas
+511,174,"cesta st",napa
+512,542,"grand ave",oakland
+513,718,"franklin st",oakland
+514,769,"hickey blvd",pacifica
+515,381,"california ave.","palo alto"
+516,550,waverley,"palo alto"
+517,700,"welch rd","palo alto"
+518,607,"gregory ln","pleasant hill"
+519,1108,"stoneridge mall",pleasanton
+520,3520,"solano ave",richmond
+521,101,"park pl.",richmond
+522,1119,"industrial rd","san carlos"
+523,150,"s 1st st ste 115","san jose"
+524,152,"n 3rd st","san jose"
+525,271,"e brokaw rd","san jose"
+526,3151,"crow canyon pl # g","san ramon"
+527,388,"s overlook dr","san ramon"
+528,514,"front st","santa cruz"
+529,824,"w el camino real",sunnyvale
+530,29320,"union city blvd","union city"
+531,67,broadway,"walnut creek"
+532,41,"simms st","san rafael"
+533,1665,"sebastopol rd","santa rosa"
+534,3080,"marlow rd","santa rosa"
+535,128,"n main st",sebastopol
+536,529,st,sonoma
+537,122,"w napa st",sonoma
+538,19161,"sonoma hwy",sonoma
+539,122,"w napa st",sonoma
+540,19161,"sonoma hwy",sonoma
+541,123,"battery st","san francisco"
+542,376,"university ave.","palo alto"
+543,125,"university ave.","palo alto"
+545,93,"town & country village","palo alto"
+546,1849,"el camino real",burlingame
+547,NULL,NULL,NULL
+548,81,"e. 3rd ave.","san mateo"
+549,441,"saratoga ave.","san jose"
+550,1308,"burlingame ave",burlingame
+551,101,"new montgomery","san francisco"
+552,1353,"lincoln ave.",calistoga
+553,446,"columbus avenue","san francisco"
+554,953,"san pablo ave",albany
+555,858,"san pablo ave",albany
+556,809,"w 2nd st",antioch
+557,864,"el camino real",belmont
+558,1410,"old county rd",belmont
+559,11646,"alba rd","ben lomond"
+560,321,"1st st",benicia
+561,131,"1st st # b",benicia
+562,726,"1st st",benicia
+563,120,"w h st",benicia
+564,1202,"e 5th st",benicia
+565,1591,"solano ave",berkeley
+566,1333,"university ave",berkeley
+567,2598,"telegraph ave",berkeley
+568,2181,"shattuck ave",berkeley
+569,1310,"university ave",berkeley
+570,100,"seawall dr.",berkeley
+571,3101,"shattuck ave.",berkeley
+572,984,"university ave",berkeley
+573,1822,"san pablo ave",berkeley
+574,2114,"vine st",berkeley
+575,NULL,NULL,NULL
+576,1327,broadway,burlingame
+577,241,"california dr",burlingame
+578,241,"california dr",burlingame
+579,221,"park rd",burlingame
+580,1250,"lincoln ave",calistoga
+581,2369,"winchester blvd",campbell
+582,NULL,NULL,NULL
+583,1779,"winchester blvd # 81",campbell
+584,1875,"s. bascom ave",campbell
+585,2617,"carnation ct","castro valley"
+586,20710,"rutledge rd","castro valley"
+587,3717,"castro valley blvd","castro valley"
+588,191,"highway 156",castroville
+589,2325,"clayton rd",concord
+590,2045,"mount diablo st",concord
+591,2001,"salvio st",concord
+592,5400,"ygnacio valley rd",concord
+593,1114,"meadow ln",concord
+594,282,"sun valley mall",concord
+595,2118,"willow pass rd # 600",concord
+596,5400,"ygnacio valley rd # a10",concord
+597,21619,"stevens creek blvd",cupertino
+598,19980,"homestead rd",cupertino
+599,6192,"mission st","daly city"
+600,7379,"mission st","daly city"
+601,212,"school st","daly city"
+602,3456,"camino tassajara",danville
+603,369,"hartz ave",danville
+604,7459,"amador valley blvd",dublin
+605,7851,"amador valley blvd",dublin
+606,7294,"san ramon rd",dublin
+607,7138,"village pky",dublin
+608,2240,"university ave","east palo alto"
+609,4156,"appian way","el sobrante"
+610,212,"regency ct","el sobrante"
+611,6701,"bay st",emeryville
+612,1712,"w texas st",fairfield
+613,833,"texas st",fairfield
+614,3990,"paradise valley rd",fairfield
+615,37422,"fremont blvd # b",fremont
+616,4500,"peralta blvd",fremont
+617,40645,"fremont blvd ste 28",fremont
+618,37671,"niles blvd",fremont
+619,43301,"mission blvd",fremont
+620,37501,"niles blvd",fremont
+621,3575,"peralta blvd",fremont
+622,924,"praderia cir",fremont
+623,356,"main st","half moon bay"
+624,27935,"manon ave",hayward
+625,1082,"b st",hayward
+626,18974,"meekland ave",hayward
+627,22779,"6th st",hayward
+628,26966,"aberdeen pl",hayward
+629,22170,"mission blvd",hayward
+630,939,"b st",hayward
+631,31113,"mission blvd",hayward
+632,20918,"mission blvd",hayward
+633,22580,"grand st",hayward
+634,26050,"mocine ave",hayward
+635,18553,"mission blvd",hayward
+636,464,"grove way",hayward
+637,21995,"mission blvd",hayward
+638,22554,"main st",hayward
+639,25144,"mission blvd",hayward
+640,1001,"b st",hayward
+641,24018,"hesperian blvd",hayward
+642,390,"winton ave",hayward
+643,201,"5th st",hollister
+644,3553,"mount diablo blvd",lafayette
+645,5,"smoke tree ct",lafayette
+646,909,"club house dr # a",livermore
+647,1840,"portola ave",livermore
+648,2677,"old 1st st",livermore
+649,15,"n santa cruz ave","los gatos"
+650,1150,"arnold dr # c",martinez
+651,501,"main st",martinez
+652,1389,"orange ave","menlo park"
+653,241,"el camino real","menlo park"
+654,134,"s main st",milpitas
+655,1905,"n milpitas blvd",milpitas
+656,1002,"viader dr",moraga
+657,17365,"monterey rd","morgan hill"
+658,NULL,NULL,NULL
+659,304,"lincoln ave",napa
+660,3385,"calif blvd",napa
+661,974,"franklin st",napa
+662,2560,"macgregor ct",napa
+663,2443,"w park ave",napa
+664,2043,"w f st",napa
+665,5810,"jarvis ave",newark
+666,35201,"newark blvd",newark
+667,36601,"newark blvd # 81",newark
+668,37013,"ash st",newark
+669,7167,"thornton ave",newark
+670,2101,"macarthur blvd",oakland
+671,400,"29th ave",oakland
+672,1950,"san pablo ave",oakland
+673,1450,"lakeshore ave",oakland
+674,5819,"college ave",oakland
+675,4162,"piedmont ave",oakland
+676,120,"11th st",oakland
+677,2272,"telegraph ave",oakland
+678,952,"fruitvale ave",oakland
+679,266,"14th st",oakland
+680,3000,"macarthur blvd",oakland
+681,2214,"macarthur blvd",oakland
+682,1658,"12th st # a",oakland
+683,126,"14th st # 32",oakland
+684,3629,"martin luther king jr way",oakland
+685,1943,"fruitvale ave",oakland
+686,1358,"fruitvale ave",oakland
+687,56,"jack london sq",oakland
+688,3411,"macarthur blvd",oakland
+689,1821,"90th ave",oakland
+690,34,"eastmont mall # a",oakland
+691,1534,"san pablo ave",oakland
+692,3932,"macarthur blvd",oakland
+693,370,embarcadero,oakland
+694,435,"13th st",oakland
+695,5352,"college ave",oakland
+696,360,"adeline st",oakland
+697,4428,"martin luther king jr way",oakland
+698,5921,"foothill blvd",oakland
+699,4001,"macarthur blvd",oakland
+700,3449,"fruitvale ave",oakland
+701,10440,"macarthur blvd",oakland
+702,380,"12th st",oakland
+703,4799,"shattuck ave",oakland
+704,6202,"claremont ave",oakland
+705,5515,"college ave",oakland
+706,2775,"telegraph ave",oakland
+707,355,"19th st",oakland
+708,3514,"e 14th st",oakland
+709,200,"w cypress rd",oakley
+710,1620,"delta meadows way",oakley
+711,1249,"linda mar shopping ctr",pacifica
+712,2125,"cabrillo hwy",pacifica
+713,99,"stanford shopping ctr","palo alto"
+714,625,"emerson st","palo alto"
+715,547,"emerson st","palo alto"
+716,NULL,NULL,NULL
+717,2284,"san pablo ave",pinole
+718,1907,"san pablo ave",pinole
+719,610,"san pablo ave apt a",pinole
+720,1481,"tara hills dr",pinole
+721,2445,"willow pass rd",pittsburg
+722,548,"contra costa blvd","pleasant hill"
+723,2265,"contra costa blvd","pleasant hill"
+724,537,"main st",pleasanton
+725,122,"w neal st",pleasanton
+726,3506,"old santa rita rd # b",pleasanton
+727,3059,"hopyard rd",pleasanton
+728,1807,"santa rita rd ste k",pleasanton
+729,3015,"hopyard rd ste h",pleasanton
+730,725,"main st",pleasanton
+731,5321,"hopyard rd ste c",pleasanton
+732,3915,"alpine rd","portola valley"
+733,816,"8th ave","redwood city"
+734,2312,"hopkins ave","redwood city"
+735,226,"44th st",richmond
+736,13021,"san pablo ave",richmond
+737,3024,"cutting blvd",richmond
+738,371,"s 23rd st",richmond
+739,2227,"macdonald ave",richmond
+740,2012,"cutting blvd",richmond
+741,210,"main st","rio vista"
+742,200,"grand ave","south san francisco"
+743,2224,"westborough blvd","south san francisco"
+744,414,"san mateo ave","san bruno"
+745,1189,"laurel st","san carlos"
+746,10,"daffodil ln","san carlos"
+747,181,"eddy st","san francisco"
+748,337,"e taylor st","san jose"
+749,3273,"sierra rd","san jose"
+750,1375,"blossom hill rd","san jose"
+751,2751,"richland ave","san jose"
+752,1143,"saratoga sunnyvale rd","san jose"
+753,858,"n 13th st","san jose"
+754,1711,"mckee rd","san jose"
+755,309,"n montgomery st","san jose"
+756,939,"old oakland rd","san jose"
+757,NULL,NULL,NULL
+758,2219,"quimby rd","san jose"
+759,NULL,NULL,NULL
+760,NULL,NULL,NULL
+761,2299,"chittenden rd","san juan bautista"
+762,1680,"washington ave","san leandro"
+763,13800,"neptune dr brass putter","san leandro"
+764,15105,"washington ave","san leandro"
+765,656,"e 14th st","san leandro"
+766,15293,"hesperian blvd","san leandro"
+767,13855,"catalina st","san leandro"
+768,1500,"150th ave","san leandro"
+769,150,"w juana ave","san leandro"
+770,106,"e 25th ave","san mateo"
+771,635,"el portal dr","san pablo"
+772,1503,"23rd st","san pablo"
+773,500,"bollinger canyon way # a-12","san ramon"
+774,NULL,NULL,NULL
+775,2175,"monroe st","santa clara"
+776,915,"circle dr","santa clara"
+777,2368,"pruneridge ave","santa clara"
+778,2531,"newhall st","santa clara"
+779,104,"walnut ave # 99","santa cruz"
+780,203,"younglove ave","santa cruz"
+781,2405,"mission st","santa cruz"
+782,320,"cedar st # e","santa cruz"
+783,233,"ocean st","santa cruz"
+784,516,"front st","santa cruz"
+785,923,"pacific ave","santa cruz"
+786,4714,"soquel dr",soquel
+787,4771,"soquel dr",soquel
+788,5050,"sleepy hollow rd","suisun city"
+789,711,"main st","suisun city"
+790,707,"main st","suisun city"
+791,302,"n fairoaks ave",sunnyvale
+792,NULL,NULL,NULL
+793,685,"e el camino real",sunnyvale
+794,1235,"oakmead parkway",sunnyvale
+795,31871,"alvarado blvd","union city"
+796,33423,"mission blvd","union city"
+797,6,"union square blvd unit 5","union city"
+798,2625,"decoto rd","union city"
+799,2234,"sacramento st",vallejo
+800,1817,"capitol st",vallejo
+801,656,"benicia rd",vallejo
+802,3008,"sonoma blvd",vallejo
+803,401,"york st",vallejo
+804,320,"tuolumne st",vallejo
+805,1113,"maple ave",vallejo
+806,1324,"interstate 80",vallejo
+807,1506,"marine world pky",vallejo
+808,125,"couch st",vallejo
+809,2414,"sacramento st",vallejo
+810,905,"lincoln rd e",vallejo
+811,1687,"marine world pky",vallejo
+812,1817,"capitol st",vallejo
+813,2065,"solano ave # a",vallejo
+814,472,"benicia rd",vallejo
+815,2068,"treat blvd # b","walnut creek"
+816,1535,"olympic blvd","walnut creek"
+817,1524,"civic dr","walnut creek"
+818,1251,"arroyo way","walnut creek"
+819,2033,"n main st ste 110","walnut creek"
+820,2112,"n main st","walnut creek"
+821,328,"walker st",watsonville
+822,2925,"woodside rd # b",woodside
+823,1,"just north of strawflower village","half moon bay"
+824,2181,"shattuck ave.",berkeley
+825,171,"w a st",dixon
+826,100,"s 1st st",dixon
+827,100,"s 1st st",dixon
+828,630,"union ave",fairfield
+829,11829,"river rd",forestville
+830,42,"petaluma boulevard",petaluma
+831,10056,main,petaluma
+832,23,"petaluma blvd n",petaluma
+833,5688,"lakeville hwy",petaluma
+834,6650,"bloomfield rd",petaluma
+835,122,"washington st",petaluma
+836,4851,"redwood dr","rohnert park"
+837,10,"enterprise dr","rohnert park"
+838,5000,"commerce blvd","rohnert park"
+839,180,"bellam blvd","san rafael"
+840,2700,"yulupa ave","santa rosa"
+841,1529,"farmers ln","santa rosa"
+842,4776,"sonoma hwy","santa rosa"
+843,2700,"yulupa ave","santa rosa"
+844,595,"highway 1","santa rosa"
+845,19,"old courthouse sq","santa rosa"
+846,5344,"sebastopol rd","santa rosa"
+847,3330,"yulupa ave","santa rosa"
+848,600,"administration dr","santa rosa"
+849,248,"coddingtown cetner","santa rosa"
+850,599,bridgeway,sausalito
+851,124,"s main st",sebastopol
+852,6957,"sebastopol ave",sebastopol
+853,9005,"graton rd",sebastopol
+854,133,"e napa st",sonoma
+855,19315,"sonoma hwy",sonoma
+856,701,"main st","suisun city"
+857,701,"cedar st","suisun city"
+858,900,"fairgrounds dr",vallejo
+859,579,"castro st","san francisco"
+860,101,"spear st","san francisco"
+861,NULL,"- 300 plymouth ave","san francisco"
+862,5701,"geary blvd","san francisco"
+863,101,"shannon st","san francisco"
+864,800,"stanyan st","san francisco"
+865,1153,"valencia st","san francisco"
+866,10,"mason st","san francisco"
+867,4314,"california st","san francisco"
+868,256,"columbus ave","san francisco"
+869,400,"van ness ave","san francisco"
+870,630,"sansome st","san francisco"
+871,900,"cole st","san francisco"
+872,200,"paul ave","san francisco"
+873,1568,"haight st","san francisco"
+874,NULL,NULL,NULL
+875,1705,"yosemite ave","san francisco"
+876,2050,"divisadero st","san francisco"
+877,160,"spear st","san francisco"
+878,256,"columbus ave","san francisco"
+879,127,7th,"san francisco"
+880,1509,"hyde st","san francisco"
+881,400,"van ness ave","san francisco"
+882,405,"mason st","san francisco"
+883,925,"chenery st","san francisco"
+884,211,"main st","san francisco"
+885,655,"union st","san francisco"
+886,400,"geary st","san francisco"
+887,651,"emerson st","palo alto"
+888,15,"1/2 n santa cruz ave","los gatos"
+889,2655,"el camino real","santa clara"
+890,157,"e el camino real",sunnyvale
+891,NULL,"el camino real","palo alto"
+892,31,"santa clara","san jose"
+893,152,"san fernando","san jose"
+894,736,washington,oakland
+895,1920,shattuck,berkeley
+896,1652,"stockton st.","san francisco"
+897,1723,sutter,"san francisco"
+898,3015,"hopyard rd",pleasanton
+899,398,"hayes st","san francisco"
+900,68,"fourth st., (1/2 block from market st.)","san francisco"
+901,708,clement,"san francisco"
+902,15,"harbor st","san rafael"
+903,6200,"center st.",clayton
+904,NULL,"ramon blvd.","san ramon"
+905,331,"hartz ave",danville
+906,333,"california ave",burlingame
+907,555,"2nd st","san francisco"
+908,7,"st @ (798) brannan","san francisco"
+909,1620,"saratoga avenue #390","san jose"
+910,661,"howard st (at 3rd)","san francisco"
+911,1403,"lincoln ave.",calistoga
+912,345,"healdsburg avenue",healdsburg
+913,5995,"mowry ave",newark
+914,NULL,NULL,NULL
+915,NULL,NULL,NULL
+916,8059,"aptos st",aptos
+917,3252,"adeline st",berkeley
+918,1686,"shattuck ave",berkeley
+919,1958,"shattuck ave",berkeley
+920,8335,"brentwood blvd ste c",brentwood
+921,700,"e campbell ave",campbell
+922,200,"sycamore valley rd w",danville
+923,1940,"university ave # c","east palo alto"
+924,11299,"san pablo ave","el cerrito"
+925,420,"executive ct n ste g",fairfield
+926,2904,"alameda ave","half moon bay"
+927,2730,"cavanagh ct",hayward
+928,300,"a st",hayward
+929,22365,"mission blvd",hayward
+930,2730,"cavanagh ct",hayward
+931,NULL,NULL,NULL
+932,15551,"flintridge dr","los gatos"
+933,2250,"pacheco blvd",martinez
+934,209,"s. main st",milpitas
+935,5698,"thornton ave",newark
+936,326,"e 18th st",oakland
+937,2676,"fruitvale ave",oakland
+938,3114,"san pablo ave",oakland
+939,5299,"college ave # a",oakland
+940,10135,"pippin st",oakland
+941,10739,"macarthur blvd",oakland
+942,3415,"telegraph ave",oakland
+943,799,"san antonio ave","palo alto"
+944,1941,"oak park blvd ste 40","pleasant hill"
+945,4040,"pimlico dr",pleasanton
+946,574,"wellington dr","san carlos"
+947,1665,folsom,"san francisco"
+948,1516,"ocean avenue","san francisco"
+949,1117,fillmore,"san francisco"
+950,126,ellis,"san francisco"
+951,491,"saratoga ave","san jose"
+952,154,"post st","san jose"
+953,1870,"alum rock ave","san jose"
+954,21,"n 2nd st","san jose"
+955,505,"e santa clara st","san jose"
+956,1688,"berryessa rd","san jose"
+957,1711,"branham ln ste a-9","san jose"
+958,5230,"union ave","san jose"
+959,2985,"cortina dr","san jose"
+960,1110,"s bascom ave","san jose"
+961,1685,"four oaks rd","san jose"
+962,3309,"san felipe rd","san jose"
+963,4999,"westdale dr","san jose"
+964,16680,"e 14th st","san leandro"
+965,420,"executive ct n ste g","suisun city"
+966,101,"s murphy ave",sunnyvale
+967,1038,"e el camino real",sunnyvale
+968,1179,"w. el camino real",sunnyvale
+969,410,"west a st",hayward
+970,3064,"pacific ave.",livermore
+971,NULL,NULL,NULL
+972,841,"petaluma blvd n",petaluma
+973,1380,"lincoln ave","san rafael"
+974,NULL,NULL,NULL
+975,3963,"gravenstein highway",sebastopol
+976,108,"sunset ave","suisun city"
+977,310,"mini dr",vallejo
+978,3741,"geary blvd","san francisco"
+979,2619,"mission st","san francisco"
+980,NULL,NULL,NULL
+981,404,"s 2nd","san jose"
+982,262,"s 2nd","san jose"
+983,175,"s 2nd","san jose"
+984,129,"first st",benicia
+985,201,"s. b st","san mateo"
+986,NULL,bl.,fremont
+987,NULL,"blvd, just north of thorton ave",newark
+988,NULL,blvd.,newark
+989,980,"east campell ave.",campbell
+990,4627,"geary blvd","san francisco"
+991,500,"east cotati ave",cotati
+992,34751,"ardenwood blvd",newark
+993,NULL,"blvd at 165th ave.","san leandro"
+994,NULL,castroville,castroville
+995,2319,"south el camino","san mateo"
+996,1616,"west el camino real","mountain view"
+997,1616,"w. el camino real","mountain view"
+998,405,"north san pedro rd","san rafael"
+999,1345,"bush st","san francisco"
+1000,NULL,NULL,NULL
+1001,1580,"solano ave.",albany
+1002,2128,"chestnut st","san francisco"
+1003,68,"fourth st., (1/2 block from market st.)","san francisco"
+1004,1772,market,"san francisco"
