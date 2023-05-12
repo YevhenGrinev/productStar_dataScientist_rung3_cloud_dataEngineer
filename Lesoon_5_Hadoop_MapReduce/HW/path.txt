@@ -1,0 +1,14 @@
+
+bin/hadoop jar share/hadoop/tools/lib/hadoop-streaming-3.2.4.jar \
+-input input \
+-output output_loc_geo \
+-file mapper_loc_geo.py -file reducer_loc_geo.py \
+-mapper "python3 mapper_loc_geo.py location.csv geographic.csv" \
+-reducer "python3 reducer_loc_geo.py"
+
+bin/hadoop jar share/hadoop/tools/lib/hadoop-streaming-3.2.4.jar \
+-input input \
+-output output_loc_gen \
+-file mapper_loc_gen.py -file reducer_loc_gen.py \
+-mapper "python3 mapper_loc_gen.py location.csv generalinfo.csv" \
+-reducer "python3 reducer_loc_gen.py"
